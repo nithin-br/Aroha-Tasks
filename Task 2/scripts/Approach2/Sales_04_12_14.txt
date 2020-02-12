@@ -1,0 +1,540 @@
+sales_id,sale_date,product_id,product_name,unit_selling_price (after_discount),qty,sub_total,discounted_amount
+105697,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105698,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105699,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105700,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105701,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105702,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105703,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105704,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105705,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105706,2014-12-04,797,Hirzl Women's Soffft Flex Golf Glove,27.09,1,27.09,-9.1
+105707,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105708,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105709,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105710,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105711,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105712,2014-12-04,93,Under Armour Men's Tech II T-Shirt,22.49,3,67.47,7.5
+105713,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105714,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+105715,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105716,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105717,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105718,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105719,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105720,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+105721,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+105722,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105723,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105724,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105725,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105726,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105727,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105728,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105729,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105730,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105731,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105732,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105733,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105734,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105735,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105736,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105737,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105738,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105739,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105740,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105741,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+105742,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+105743,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105744,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105745,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105746,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105747,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105748,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105749,2014-12-04,134,Nike Women's Legend V-Neck T-Shirt,22.5,3,67.5,7.5
+105750,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105751,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105752,2014-12-04,792,Hirzl Men's Hybrid Golf Glove,9.24,4,36.96,23.0
+105753,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105754,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105755,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105756,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105757,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+105758,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105759,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105760,2014-12-04,172,Nike Women's Tempo Shorts,37.0,1,37.0,-7.0
+105761,2014-12-04,917,Glove It Women's Mod Oval 3-Zip Carry All Gol,14.79,5,73.95,36.0
+105762,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105763,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105764,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105765,2014-12-04,276,Under Armour Women's Ignite Slide,28.79,3,86.37,9.6
+105766,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105767,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105768,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105769,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105770,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105771,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+105772,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,4,123.96,36.0
+105773,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105774,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105775,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105776,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105777,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+105778,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105779,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105780,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105781,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105782,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105783,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105784,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105785,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105786,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105787,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105788,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105789,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105790,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105791,2014-12-04,565,adidas Youth Germany Black/Red Away Match Soc,69.5,1,69.5,0.5
+105792,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105793,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105794,2014-12-04,116,Nike Men's Comfort 2 Slide,35.49,4,141.96,38.0
+105795,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105796,2014-12-04,282,Under Armour Women's Ignite PIP VI Slide,28.79,3,86.37,9.6
+105797,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105798,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105799,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105800,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105801,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105802,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105803,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+105804,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105805,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105806,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105807,2014-12-04,564,Nike Men's Deutschland Weltmeister Winners Bl,37.0,1,37.0,-7.0
+105808,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105809,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105810,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105811,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105812,2014-12-04,703,Top Flite Women's 2014 XL Hybrid,13.989999999999998,5,69.95,30.0
+105813,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105814,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105815,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105816,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+105817,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105818,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105819,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105820,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105821,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105822,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105823,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105824,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105825,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+105826,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105827,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105828,2014-12-04,235,Under Armour Hustle Storm Medium Duffle Bag,26.49,4,105.96,34.0
+105829,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105830,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+105831,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105832,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105833,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105834,2014-12-04,897,Team Golf New England Patriots Putter Grip,17.49,4,69.96,30.0
+105835,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+105836,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105837,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105838,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105839,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105840,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105841,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105842,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105843,2014-12-04,823,Titleist Pro V1x High Numbers Personalized Go,44.19,3,132.57,23.4
+105844,2014-12-04,825,Bridgestone e6 Straight Distance NFL Tennesse,38.79,1,38.79,-6.8
+105845,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105846,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105847,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105848,2014-12-04,44,adidas Men's F10 Messi TRX FG Soccer Cleat,50.99,3,152.97,27.0
+105849,2014-12-04,44,adidas Men's F10 Messi TRX FG Soccer Cleat,45.99,5,229.95,70.0
+105850,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105851,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105852,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105853,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105854,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+105855,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105856,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105857,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105858,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105859,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105860,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+105861,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105862,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105863,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105864,2014-12-04,728,LIJA Women's Eyelet Sleeveless Golf Polo,50.25,4,201.0,59.0
+105865,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105866,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105867,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105868,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105869,2014-12-04,797,Hirzl Women's Soffft Flex Golf Glove,12.09,5,60.45,29.5
+105870,2014-12-04,793,Hirzl Women's Hybrid Golf Glove,24.24,1,24.24,-9.25
+105871,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105872,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105873,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105874,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105875,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105876,2014-12-04,572,TYR Boys' Team Digi Jammer,35.99,3,107.97,12.0
+105877,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,4,123.96,36.0
+105878,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105879,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+105880,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105881,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105882,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105883,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105884,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105885,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105886,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105887,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105888,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105889,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105890,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+105891,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105892,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+105893,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105894,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105895,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+105896,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105897,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+105898,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+105899,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105900,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105901,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105902,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105903,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105904,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105905,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105906,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105907,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105908,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105909,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+105910,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+105911,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105912,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105913,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+105914,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105915,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,4,123.96,36.0
+105916,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105917,2014-12-04,93,Under Armour Men's Tech II T-Shirt,22.49,2,44.98,5.0
+105918,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+105919,2014-12-04,905,Team Golf Texas Longhorns Putter Grip,17.49,4,69.96,30.0
+105920,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105921,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105922,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105923,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105924,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105925,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+105926,2014-12-04,567,adidas Men's Germany Black Crest Away Tee,22.5,2,45.0,5.0
+105927,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+105928,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105929,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105930,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105931,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105932,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105933,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105934,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105935,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105936,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105937,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105938,2014-12-04,276,Under Armour Women's Ignite Slide,38.79,1,38.79,-6.8
+105939,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105940,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105941,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105942,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105943,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105944,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105945,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105946,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105947,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105948,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105949,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105950,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105951,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105952,2014-12-04,924,Glove It Urban Brick Golf Towel,25.19,1,25.19,-9.2
+105953,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105954,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+105955,2014-12-04,567,adidas Men's Germany Black Crest Away Tee,22.5,2,45.0,5.0
+105956,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105957,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+105958,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+105959,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105960,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105961,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105962,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+105963,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+105964,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+105965,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105966,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105967,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+105968,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105969,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105970,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105971,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105972,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105973,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,3,107.97,12.0
+105974,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105975,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105976,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105977,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105978,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105979,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105980,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105981,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105982,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+105983,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105984,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+105985,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105986,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+105987,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+105988,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+105989,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+105990,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105991,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105992,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+105993,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+105994,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+105995,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+105996,2014-12-04,917,Glove It Women's Mod Oval 3-Zip Carry All Gol,19.79,2,39.58,4.4
+105997,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+105998,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+105999,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106000,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+106001,2014-12-04,822,Titleist Pro V1x High Numbers Golf Balls,43.19,3,129.57,14.4
+106002,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,4,319.96,80.0
+106003,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106004,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+106005,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+106006,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106007,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+106008,2014-12-04,924,Glove It Urban Brick Golf Towel,10.19,5,50.95,29.0
+106009,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106010,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,4,123.96,36.0
+106011,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106012,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+106013,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106014,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106015,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106016,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+106017,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+106018,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106019,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+106020,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+106021,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106022,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106023,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106024,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106025,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106026,2014-12-04,924,Glove It Urban Brick Golf Towel,15.19,3,45.57,2.4
+106027,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106028,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106029,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106030,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106031,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+106032,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106033,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106034,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106035,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106036,2014-12-04,977,ENO Atlas Hammock Straps,21.99,5,109.95,40.0
+106037,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106038,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106039,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+106040,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106041,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106042,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106043,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106044,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106045,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106046,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106047,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106048,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106049,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+106050,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+106051,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+106052,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106053,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106054,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106055,2014-12-04,906,Team Golf Tennessee Volunteers Putter Grip,17.49,5,87.45,37.5
+106056,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106057,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106058,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106059,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106060,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+106061,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+106062,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106063,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106064,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106065,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106066,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106067,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106068,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106069,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+106070,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106071,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106072,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106073,2014-12-04,917,Glove It Women's Mod Oval 3-Zip Carry All Gol,19.79,3,59.37,6.6
+106074,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106075,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106076,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106077,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106078,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106079,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106080,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106081,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106082,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106083,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+106084,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106085,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106086,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+106087,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106088,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106089,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106090,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+106091,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106092,2014-12-04,93,Under Armour Men's Tech II T-Shirt,22.49,3,67.47,7.5
+106093,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+106094,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106095,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+106096,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106097,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106098,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106099,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,2,85.0,15.0
+106100,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106101,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106102,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,3,107.97,12.0
+106103,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+106104,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+106105,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106106,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+106107,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+106108,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,3,107.97,12.0
+106109,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106110,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106111,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106112,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+106113,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106114,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+106115,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106116,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106117,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+106118,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106119,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+106120,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106121,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106122,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106123,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106124,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106125,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106126,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106127,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,3,152.97,27.0
+106128,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106129,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106130,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106131,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106132,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106133,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+106134,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+106135,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+106136,2014-12-04,775,Clicgear 8.0 Shoe Brush,9.49,2,18.98,1.0
+106137,2014-12-04,134,Nike Women's Legend V-Neck T-Shirt,17.5,4,70.0,30.0
+106138,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+106139,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,2,169.98,30.0
+106140,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106141,2014-12-04,924,Glove It Urban Brick Golf Towel,15.19,3,45.57,2.4
+106142,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106143,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+106144,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+106145,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+106146,2014-12-04,775,Clicgear 8.0 Shoe Brush,9.49,3,28.47,1.5
+106147,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106148,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106149,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+106150,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106151,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+106152,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,3,107.97,12.0
+106153,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+106154,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+106155,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+106156,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+106157,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+106158,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+106159,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+106160,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+106161,2014-12-04,977,ENO Atlas Hammock Straps,36.99,1,36.99,-7.0
+106162,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+161435,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+161436,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+161437,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,42.5,3,127.5,22.5
+161438,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+161439,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,4,123.96,36.0
+161440,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161441,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161442,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+161443,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+161444,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,5,187.5,62.5
+161445,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+161446,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+161447,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161448,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161449,2014-12-04,646,Merrell Women's Grassbow Sport Hiking Shoe,79.99,4,319.96,80.0
+161450,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,4,159.92,40.0
+161451,2014-12-04,858,GolfBuddy VT3 GPS Watch,169.99,1,169.99,30.0
+161452,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,54.98,1,54.98,-5.0
+161453,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+161454,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161455,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161456,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+161457,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161458,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+161459,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+161460,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,3,134.94,15.0
+161461,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+161462,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161463,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+161464,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+161465,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,45.99,1,45.99,-6.0
+161466,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161467,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+161468,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161469,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161470,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,35.99,2,71.98,8.0
+161471,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+161472,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,44.98,2,89.96,10.0
+161473,2014-12-04,786,TaylorMade 2014 Purelite Stand Bag,153.99,1,153.99,26.0
+161474,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+161475,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+161476,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+161477,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161478,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+161479,2014-12-04,957,Diamondback Women's Serene Classic Comfort Bi,249.98,1,249.98,49.99
+161480,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,5,229.95,70.0
+161481,2014-12-04,1014,O'Brien Men's Neoprene Life Vest,39.98,5,199.9,50.0
+161482,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161483,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+161484,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+161485,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,4,319.96,80.0
+161486,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161487,2014-12-04,607,Garmin Approach S3 Golf GPS Watch,209.99,1,209.99,40.0
+161488,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+161489,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161490,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,94.99,1,94.99,5.0
+161491,2014-12-04,981,The North Face Women's Recon Backpack,94.15,1,94.15,4.85
+161492,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,52.5,1,52.5,-2.5
+161493,2014-12-04,365,Perfect Fitness Perfect Rip Deck,45.99,4,183.96,56.0
+161494,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161495,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,84.99,3,254.97,45.0
+161496,2014-12-04,258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,75.74,5,378.7,96.25
+161497,2014-12-04,627,Under Armour Girls' Toddler Spine Surge Runni,30.99,5,154.95,45.0
+161498,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,5,399.95,100.0
+161499,2014-12-04,365,Perfect Fitness Perfect Rip Deck,50.99,2,101.98,18.0
+161500,2014-12-04,403,Nike Men's CJ Elite 2 TD Football Cleat,113.99,1,113.99,16.0
+161501,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161502,2014-12-04,295,Fitbit The One Wireless Activity & Sleep Trac,94.96,1,94.96,4.99
+161503,2014-12-04,1004,Field & Stream Sportsman 16 Gun Fire Safe,329.98,1,329.98,70.0
+161504,2014-12-04,1073,Pelican Sunstream 100 Kayak,169.99,1,169.99,30.0
+161505,2014-12-04,365,Perfect Fitness Perfect Rip Deck,60.99,1,60.99,-1.0
+161506,2014-12-04,502,Nike Men's Dri-FIT Victory Golf Polo,37.5,4,150.0,50.0
+161507,2014-12-04,191,Nike Men's Free 5.0+ Running Shoe,79.99,4,319.96,80.0

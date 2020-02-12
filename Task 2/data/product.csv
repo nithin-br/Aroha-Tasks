@@ -1,0 +1,1339 @@
+product_id,product_category_id,product_name,product_selling_price,product_category_name,product_cost_price,product_max_discount (%),allowed_discounted_price
+1,2,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Soccer,35.99,15,50.98
+2,2,Under Armour Men's Highlight MC Football Clea,129.99,Soccer,77.99,20,103.99
+3,2,Under Armour Men's Renegade D Mid Football Cl,89.99,Soccer,53.99,15,76.49
+4,2,Under Armour Men's Renegade D Mid Football Cl,89.99,Soccer,53.99,15,76.49
+5,2,Riddell Youth Revolution Speed Custom Footbal,199.99,Soccer,119.99,20,159.99
+6,2,Jordan Men's VI Retro TD Football Cleat,134.99,Soccer,80.99,20,107.99
+7,2,Schutt Youth Recruit Hybrid Custom Football H,99.99,Soccer,59.99,15,84.99
+8,2,Nike Men's Vapor Carbon Elite TD Football Cle,129.99,Soccer,77.99,20,103.99
+9,2,Nike Adult Vapor Jet 3.0 Receiver Gloves,50,Soccer,30,15,42.5
+10,2,Under Armour Men's Highlight MC Football Clea,129.99,Soccer,77.99,20,103.99
+11,2,Fitness Gear 300 lb Olympic Weight Set,209.99,Soccer,125.99,20,167.99
+12,2,Under Armour Men's Highlight MC Alter Ego Fla,139.99,Soccer,83.99,20,111.99
+13,2,Under Armour Men's Renegade D Mid Football Cl,89.99,Soccer,53.99,15,76.49
+14,2,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Soccer,119.99,20,159.99
+15,2,Under Armour Kids' Highlight RM Alter Ego Sup,59.99,Soccer,35.99,15,50.99
+16,2,Riddell Youth 360 Custom Football Helmet,299.99,Soccer,179.99,20,239.99
+17,2,Under Armour Men's Highlight MC Football Clea,129.99,Soccer,77.99,20,103.99
+18,2,Reebok Men's Full Zip Training Jacket,29.97,Soccer,17.98,10,26.97
+19,2,Nike Men's Fingertrap Max Training Shoe,124.99,Soccer,74.99,20,99.99
+20,2,Under Armour Men's Highlight MC Football Clea,129.99,Soccer,77.99,20,103.99
+21,2,Under Armour Kids' Highlight RM Football Clea,54.99,Soccer,32.99,15,46.74
+22,2,Kijaro Dual Lock Chair,29.99,Soccer,17.99,10,26.99
+23,2,Under Armour Men's Highlight MC Alter Ego Hul,139.99,Soccer,83.99,20,111.99
+24,2,Elevation Training Mask 2.0,79.99,Soccer,47.99,15,67.99
+25,3,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Baseball & Softball,35.99,15,50.98
+26,3,Nike Men's USA White Home Stadium Soccer Jers,90,Baseball & Softball,54,15,76.5
+27,3,Nike Youth USA Away Stadium Replica Soccer Je,75,Baseball & Softball,45,15,63.75
+28,3,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,Baseball & Softball,17.99,10,26.99
+29,3,Nike Men's USA Away Stadium Replica Soccer Je,90,Baseball & Softball,54,15,76.5
+30,3,adidas Men's Germany Home Soccer Jersey,90,Baseball & Softball,54,15,76.5
+31,3,Nike+ Fuelband SE,99,Baseball & Softball,59.4,15,84.15
+32,3,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Baseball & Softball,113.99,20,151.99
+33,3,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,Baseball & Softball,23.99,10,35.99
+34,3,"Nike Women's Pro Core 3"" Compression Shorts",28,Baseball & Softball,16.8,10,25.2
+35,3,adidas Brazuca 2014 Official Match Ball,159.99,Baseball & Softball,95.99,20,127.99
+36,3,adidas Men's Germany Black/Red Away Match Soc,90,Baseball & Softball,54,15,76.5
+37,3,adidas Kids' F5 Messi FG Soccer Cleat,34.99,Baseball & Softball,20.99,10,31.49
+39,3,Nike Women's Pro Victory Compression Bra,21.99,Baseball & Softball,13.19,10,19.79
+40,3,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Baseball & Softball,119.99,20,159.99
+41,3,adidas Men's Mexico Home Soccer Jersey,90,Baseball & Softball,54,15,76.5
+42,3,adidas Kids' F10 Messi TRX FG Soccer Cleat,44.99,Baseball & Softball,26.99,10,40.49
+43,3,Kijaro Dual Lock Chair,29.99,Baseball & Softball,17.99,10,26.99
+44,3,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99,Baseball & Softball,35.99,15,50.99
+45,3,adidas Men's F10 Messi FG Soccer Cleat,59.99,Baseball & Softball,35.99,15,50.99
+46,3,Quest 12' x 12' Dome Canopy,149.99,Baseball & Softball,89.99,20,119.99
+47,3,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Baseball & Softball,14.98,10,22.47
+48,3,adidas Brazuca Final Rio Official Match Ball,159.99,Baseball & Softball,95.99,20,127.99
+49,4,Diamondback Adult Sorrento Mountain Bike 2014,299.98,Basketball,179.99,20,239.98
+50,4,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Basketball,35.99,15,50.98
+51,4,MAC Sports Collapsible Wagon,69.99,Basketball,41.99,15,59.49
+52,4,Easton Mako Youth Bat 2014 (-11),249.97,Basketball,149.98,20,199.98
+53,4,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,Basketball,17.99,10,26.99
+54,4,Nike+ Fuelband SE,99,Basketball,59.4,15,84.15
+55,4,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,Basketball,23.99,10,35.99
+56,4,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Basketball,59.97,15,84.96
+57,4,"Nike Women's Pro Core 3"" Compression Shorts",28,Basketball,16.8,10,25.2
+58,4,Diamondback Boys' Insight 24 Performance Hybr,299.99,Basketball,179.99,20,239.99
+59,4,adidas Brazuca 2014 Official Match Ball,159.99,Basketball,95.99,20,127.99
+60,4,SOLE E25 Elliptical,999.99,Basketball,599.99,20,799.99
+61,4,Diamondback Girls' Clarity 24 Hybrid Bike 201,299.99,Basketball,179.99,20,239.99
+62,4,Easton XL1 Youth Bat 2014 (-10),179.97,Basketball,107.98,20,143.98
+63,4,Fitness Gear 300 lb Olympic Weight Set,209.99,Basketball,125.99,20,167.99
+64,4,Nike Women's Pro Victory Compression Bra,21.99,Basketball,13.19,10,19.79
+65,4,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Basketball,119.99,20,159.99
+66,4,SOLE F85 Treadmill,1799.99,Basketball,1079.99,20,1439.99
+67,4,Kijaro Dual Lock Chair,29.99,Basketball,17.99,10,26.99
+68,4,Diamondback Adult Outlook Mountain Bike 2014,309.99,Basketball,185.99,20,247.99
+69,4,Easton S1 Youth Bat 2014 (-12),179.97,Basketball,107.98,20,143.98
+70,4,Elevation Training Mask 2.0,79.99,Basketball,47.99,15,67.99
+71,4,Diamondback Adult Response XE Mountain Bike 2,349.98,Basketball,209.99,20,279.98
+72,4,Quest 12' x 12' Dome Canopy,149.99,Basketball,89.99,20,119.99
+73,5,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Lacrosse,35.99,15,50.98
+74,5,"Goaliath 54"" In-Ground Basketball Hoop with P",499.99,Lacrosse,299.99,20,399.99
+75,5,"Nike Women's Pro Core 3"" Compression Shorts",28,Lacrosse,16.8,10,25.2
+76,5,Jordan Men's VI Retro TD Football Cleat,134.99,Lacrosse,80.99,20,107.99
+77,5,Schutt Youth Recruit Hybrid Custom Football H,99.99,Lacrosse,59.99,15,84.99
+78,5,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Lacrosse,59.99,15,84.99
+79,5,Fitness Gear 300 lb Olympic Weight Set,209.99,Lacrosse,125.99,20,167.99
+80,5,Nike Women's Pro Victory Compression Bra,21.99,Lacrosse,13.19,10,19.79
+81,5,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Lacrosse,119.99,20,159.99
+82,5,Kijaro Dual Lock Chair,29.99,Lacrosse,17.99,10,26.99
+83,5,Elevation Training Mask 2.0,79.99,Lacrosse,47.99,15,67.99
+84,5,Nike Men's KD VI Basketball Shoe,129.99,Lacrosse,77.99,20,103.99
+85,5,Nike Kids' Grade School LeBron XI Basketball ,139.99,Lacrosse,83.99,20,111.99
+86,5,Quest 12' x 12' Dome Canopy,149.99,Lacrosse,89.99,20,119.99
+87,5,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Lacrosse,14.98,10,22.47
+88,5,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Lacrosse,59.99,15,84.99
+89,5,Nike Elite Crew Basketball Sock,14,Lacrosse,8.4,5,13.3
+90,5,Nike Men's LeBron XI Basketball Shoe,199.99,Lacrosse,119.99,20,159.99
+91,5,Quest Q100 10' X 10' Dome Canopy,99.98,Lacrosse,59.99,15,84.98
+92,5,Nike Men's LeBron XI Low Basketball Shoe,169.99,Lacrosse,101.99,20,135.99
+93,5,Under Armour Men's Tech II T-Shirt,24.99,Lacrosse,14.99,10,22.49
+94,5,Fitness Gear Pro Utility Bench,179.99,Lacrosse,107.99,20,143.99
+95,5,Nike Hoops Elite Team Backpack,70,Lacrosse,42,15,59.5
+96,5,Teeter Hang Ups NXT-S Inversion Table,299.99,Lacrosse,179.99,20,239.99
+97,6,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Tennis & Racquet,35.99,15,50.98
+98,6,"Nike Women's Pro Core 3"" Compression Shorts",28,Tennis & Racquet,16.8,10,25.2
+99,6,Nike Women's Pro Victory Compression Bra,21.99,Tennis & Racquet,13.19,10,19.79
+100,6,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Tennis & Racquet,119.99,20,159.99
+101,6,Kijaro Dual Lock Chair,29.99,Tennis & Racquet,17.99,10,26.99
+102,6,Quest 12' x 12' Dome Canopy,149.99,Tennis & Racquet,89.99,20,119.99
+103,6,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Tennis & Racquet,14.98,10,22.47
+104,6,Nike Elite Crew Basketball Sock,14,Tennis & Racquet,8.4,5,13.3
+105,6,Quest Q100 10' X 10' Dome Canopy,99.98,Tennis & Racquet,59.99,15,84.98
+106,6,Teeter Hang Ups NXT-S Inversion Table,299.99,Tennis & Racquet,179.99,20,239.99
+107,6,SKLZ Sport-Brella XL,69.99,Tennis & Racquet,41.99,15,59.49
+108,6,E-Z Up Vista 12' x 12' Recreational Instant S,134.99,Tennis & Racquet,80.99,20,107.99
+109,6,Under Armour Men's Ignite Camo II Slide,34.99,Tennis & Racquet,20.99,10,31.49
+110,6,McDavid HEX Extended Leg Sleeves,29.99,Tennis & Racquet,17.99,10,26.99
+111,6,Kijaro XXL Dual Lock Oversized Chair,39.99,Tennis & Racquet,23.99,10,35.99
+112,6,Nike Women's Pro Hyperwarm Half Zip Long Slee,31.97,Tennis & Racquet,19.18,10,28.77
+113,6,Nike Men's Alpha Pro D Mid Football Cleat,99.99,Tennis & Racquet,59.99,15,84.99
+114,6,Nike Men's Fly Shorts 2.0,34,Tennis & Racquet,20.4,10,30.6
+115,6,Under Armour Men's Highlight RM Football Clea,59.99,Tennis & Racquet,35.99,15,50.99
+116,6,Nike Men's Comfort 2 Slide,44.99,Tennis & Racquet,26.99,10,40.49
+117,6,YETI Tundra 65 Chest Cooler,399.99,Tennis & Racquet,239.99,20,319.99
+118,6,Quest 12' x 12' Screen House,69.99,Tennis & Racquet,41.99,15,59.49
+119,6,Quest Oversized Arm Chair,21.99,Tennis & Racquet,13.19,10,19.79
+120,6,Nike Hyper Elite Crew Basketball Sock,18,Tennis & Racquet,10.8,5,17.1
+121,7,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Hockey,35.99,15,50.98
+122,7,Nike+ Fuelband SE,99,Hockey,59.4,15,84.15
+123,7,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Hockey,59.97,15,84.96
+124,7,"Nike Women's Pro Core 3"" Compression Shorts",28,Hockey,16.8,10,25.2
+125,7,Nike Women's Pro Victory Compression Bra,21.99,Hockey,13.19,10,19.79
+126,7,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Hockey,119.99,20,159.99
+127,7,Stiga Master Series ST3100 Competition Indoor,329.99,Hockey,197.99,20,263.99
+128,7,Kijaro Dual Lock Chair,29.99,Hockey,17.99,10,26.99
+129,7,Quest 12' x 12' Dome Canopy,149.99,Hockey,89.99,20,119.99
+130,7,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Hockey,14.98,10,22.47
+131,7,Nike Elite Crew Basketball Sock,14,Hockey,8.4,5,13.3
+132,7,Under Armour Hustle Backpack,54.99,Hockey,32.99,15,46.74
+133,7,Quest Q100 10' X 10' Dome Canopy,99.98,Hockey,59.99,15,84.98
+134,7,Nike Women's Legend V-Neck T-Shirt,25,Hockey,15,10,22.5
+135,7,Nike Dri-FIT Crew Sock 6 Pack,22,Hockey,13.2,10,19.8
+136,7,Nike Hoops Elite Team Backpack,70,Hockey,42,15,59.5
+137,7,Teeter Hang Ups NXT-S Inversion Table,299.99,Hockey,179.99,20,239.99
+138,7,SKLZ Sport-Brella XL,69.99,Hockey,41.99,15,59.49
+139,7,E-Z Up Vista 12' x 12' Recreational Instant S,134.99,Hockey,80.99,20,107.99
+140,7,Under Armour Men's Ignite Camo II Slide,34.99,Hockey,20.99,10,31.49
+141,7,Under Armour Boys' Match Play Golf Polo,29.99,Hockey,17.99,10,26.99
+142,7,McDavid HEX Extended Leg Sleeves,29.99,Hockey,17.99,10,26.99
+143,7,Kijaro XXL Dual Lock Oversized Chair,39.99,Hockey,23.99,10,35.99
+144,7,Garmin Forerunner 220 GPS Watch,249.99,Hockey,149.99,20,199.99
+145,8,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,More Sports,35.99,15,50.98
+146,8,"Nike Women's Pro Core 3"" Compression Shorts",28,More Sports,16.8,10,25.2
+147,8,Nike Women's Pro Victory Compression Bra,21.99,More Sports,13.19,10,19.79
+148,8,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,More Sports,119.99,20,159.99
+149,8,Kijaro Dual Lock Chair,29.99,More Sports,17.99,10,26.99
+150,8,Quest 12' x 12' Dome Canopy,149.99,More Sports,89.99,20,119.99
+151,8,Nike Women's Pro Hyperwarm Fitted Tights,24.97,More Sports,14.98,10,22.47
+152,8,Quest Q100 10' X 10' Dome Canopy,99.98,More Sports,59.99,15,84.98
+153,8,Teeter Hang Ups NXT-S Inversion Table,299.99,More Sports,179.99,20,239.99
+154,8,SKLZ Sport-Brella XL,69.99,More Sports,41.99,15,59.49
+155,8,E-Z Up Vista 12' x 12' Recreational Instant S,134.99,More Sports,80.99,20,107.99
+156,8,Under Armour Men's Ignite Camo II Slide,34.99,More Sports,20.99,10,31.49
+157,8,Reebok Women's Performance Essentials Printed,45,More Sports,27,10,40.5
+158,8,McDavid HEX Extended Leg Sleeves,29.99,More Sports,17.99,10,26.99
+159,8,Kijaro XXL Dual Lock Oversized Chair,39.99,More Sports,23.99,10,35.99
+160,8,Nike Women's Pro Hyperwarm Half Zip Long Slee,31.97,More Sports,19.18,10,28.77
+161,8,Nike Men's Comfort 2 Slide,44.99,More Sports,26.99,10,40.49
+162,8,YETI Tundra 65 Chest Cooler,399.99,More Sports,239.99,20,319.99
+163,8,Quest 12' x 12' Screen House,69.99,More Sports,41.99,15,59.49
+164,8,adidas Women's Tiro 13 Soccer Pants,45,More Sports,27,10,40.5
+165,8,Quest Oversized Arm Chair,21.99,More Sports,13.19,10,19.79
+166,8,Under Armour Men's Ignite III Slide,34.99,More Sports,20.99,10,31.49
+167,8,Nike Women's Pro Printed Sports Bra,25.99,More Sports,15.59,10,23.39
+168,8,"Nike Women's 3"" Pro Compression Shorts",32,More Sports,19.2,10,28.8
+169,9,Diamondback Adult Sorrento Mountain Bike 2014,299.98,Cardio Equipment,179.99,20,239.98
+170,9,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Cardio Equipment,35.99,15,50.98
+171,9,MAC Sports Collapsible Wagon,69.99,Cardio Equipment,41.99,15,59.49
+172,9,Nike Women's Tempo Shorts,30,Cardio Equipment,18,10,27
+173,9,Under Armour Men's Highlight MC Football Clea,129.99,Cardio Equipment,77.99,20,103.99
+174,9,Nike Men's USA White Home Stadium Soccer Jers,90,Cardio Equipment,54,15,76.5
+175,9,Nike Women's Tempo Shorts,30,Cardio Equipment,18,10,27
+176,9,Easton Mako Youth Bat 2014 (-11),249.97,Cardio Equipment,149.98,20,199.98
+177,9,Nike Youth USA Away Stadium Replica Soccer Je,75,Cardio Equipment,45,15,63.75
+178,9,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,Cardio Equipment,17.99,10,26.99
+179,9,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,Cardio Equipment,53.99,15,76.49
+180,9,Nike Men's USA Away Stadium Replica Soccer Je,90,Cardio Equipment,54,15,76.5
+181,9,Lifetime Freestyle XL Stand-Up Paddle Board,399.99,Cardio Equipment,239.99,20,319.99
+182,9,adidas Men's Germany Home Soccer Jersey,90,Cardio Equipment,54,15,76.5
+183,9,Nike+ Fuelband SE,99,Cardio Equipment,59.4,15,84.15
+184,9,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Cardio Equipment,113.99,20,151.99
+185,9,"Goaliath 54"" In-Ground Basketball Hoop with P",499.99,Cardio Equipment,299.99,20,399.99
+186,9,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,Cardio Equipment,23.99,10,35.99
+187,9,Top Flite Women's XL 12-Piece Complete Set - ,179.98,Cardio Equipment,107.99,20,143.98
+188,9,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Cardio Equipment,59.97,15,84.96
+189,9,Nike Women's Tempo Shorts,30,Cardio Equipment,18,10,27
+190,9,Under Armour Men's Renegade D Mid Football Cl,89.99,Cardio Equipment,53.99,15,76.49
+191,9,Nike Men's Free 5.0+ Running Shoe,99.99,Cardio Equipment,59.99,15,84.99
+192,9,"Nike Women's Pro Core 3"" Compression Shorts",28,Cardio Equipment,16.8,10,25.2
+193,10,Diamondback Adult Sorrento Mountain Bike 2014,299.98,Strength Training,179.99,20,239.98
+194,10,Nike+ Fuelband SE,99,Strength Training,59.4,15,84.15
+195,10,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Strength Training,59.97,15,84.96
+196,10,Diamondback Boys' Insight 24 Performance Hybr,299.99,Strength Training,179.99,20,239.99
+197,10,SOLE E25 Elliptical,999.99,Strength Training,599.99,20,799.99
+198,10,Diamondback Girls' Clarity 24 Hybrid Bike 201,299.99,Strength Training,179.99,20,239.99
+199,10,SOLE F85 Treadmill,1799.99,Strength Training,1079.99,20,1439.99
+200,10,Diamondback Adult Outlook Mountain Bike 2014,309.99,Strength Training,185.99,20,247.99
+201,10,Elevation Training Mask 2.0,79.99,Strength Training,47.99,15,67.99
+202,10,Diamondback Adult Response XE Mountain Bike 2,349.98,Strength Training,209.99,20,279.98
+203,10,GoPro HERO3+ Black Edition Camera,399.99,Strength Training,239.99,20,319.99
+204,10,Rollerblade Men's Spark 84 Inline Skate,159.99,Strength Training,95.99,20,127.99
+205,10,Diamondback Adult Wildwood Citi Classic Comfo,269.99,Strength Training,161.99,20,215.99
+206,10,Diamondback Adult Edgewood Hybrid Bike 2014,299.98,Strength Training,179.99,20,239.98
+207,10,Rollerblade Women's Spark 84 Inline Skates,159.99,Strength Training,95.99,20,127.99
+208,10,SOLE E35 Elliptical,1999.99,Strength Training,1199.99,20,1599.99
+209,10,Quest 15 FT Trampoline Enclosure Combo,499.99,Strength Training,299.99,20,399.99
+210,10,Thule Trailway 4-Bike Hitch Vehicle Rack,199.98,Strength Training,119.99,20,159.98
+211,10,Diamondback Grind BMX Bike 2014,199.99,Strength Training,119.99,20,159.99
+212,10,Under Armour Men's Ignite Camo II Slide,34.99,Strength Training,20.99,10,31.49
+213,10,Exerpeutic 900XL Magnetic Recumbent Bike with,199.99,Strength Training,119.99,20,159.99
+214,10,Diamondback Women's Vital 2 Hybrid Bike 2014,299.98,Strength Training,179.99,20,239.98
+215,10,Garmin vivofit Fitness Band with HRM,169.99,Strength Training,101.99,20,135.99
+216,10,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,189,Strength Training,113.4,20,151.2
+217,11,Fitness Gear 300 lb Olympic Weight Set,209.99,Fitness Accessories,125.99,20,167.99
+218,11,Elevation Training Mask 2.0,79.99,Fitness Accessories,47.99,15,67.99
+219,11,Fitness Gear Pro Utility Bench,179.99,Fitness Accessories,107.99,20,143.99
+220,11,Teeter Hang Ups NXT-S Inversion Table,299.99,Fitness Accessories,179.99,20,239.99
+221,11,Fitness Gear Pro Olympic Bench,249.99,Fitness Accessories,149.99,20,199.99
+222,11,Fitness Gear Pro Half Rack,349.99,Fitness Accessories,209.99,20,279.99
+223,11,Teeter Hang-Ups EP-970 Limited Inversion Tabl,399.99,Fitness Accessories,239.99,20,319.99
+224,11,PowerBlock Classic 50 lb Adjustable Dumbbell ,299.99,Fitness Accessories,179.99,20,239.99
+225,11,Marcy Pro Circuit Trainer,499.99,Fitness Accessories,299.99,20,399.99
+226,11,Bowflex SelectTech 1090 Dumbbells,599.99,Fitness Accessories,359.99,20,479.99
+227,11,Reebok Men's CrossFit Nano 3.0 Training Shoe,109.99,Fitness Accessories,65.99,20,87.99
+228,11,Fitness Gear Olympic Bench,199.99,Fitness Accessories,119.99,20,159.99
+229,11,Marcy Diamond 9010 Smith Cage,799.99,Fitness Accessories,479.99,20,639.99
+230,11,BOSU Balance Trainer,119.99,Fitness Accessories,71.99,20,95.99
+231,11,Nike Men's Romaleos 2 Weightlifting Shoe,199.99,Fitness Accessories,119.99,20,159.99
+232,11,adidas Men's Powerlift 2 Training Shoe,89.99,Fitness Accessories,53.99,15,76.49
+233,11,Core Fitness 5 - 50 lb Adjustable Dumbbells -,399.99,Fitness Accessories,239.99,20,319.99
+234,11,Fitness Gear Pro Core Bench,129.99,Fitness Accessories,77.99,20,103.99
+235,11,Under Armour Hustle Storm Medium Duffle Bag,34.99,Fitness Accessories,20.99,10,31.49
+236,11,PowerBlock 24 lb Adjustable Dumbbell Set,159.99,Fitness Accessories,95.99,20,127.99
+237,11,Fitness Gear 7' Olympic Bar,79.99,Fitness Accessories,47.99,15,67.99
+238,11,Fitness Gear Heavy Bag Stand,99.99,Fitness Accessories,59.99,15,84.99
+239,11,Reebok Women's CrossFit Nano 2.0 Training Sho,109.99,Fitness Accessories,65.99,20,87.99
+240,11,Stamina Air Rower,299.99,Fitness Accessories,179.99,20,239.99
+241,12,Nike Women's Tempo Shorts,30,Boxing & MMA,18,10,27
+242,12,Nike Women's Tempo Shorts,30,Boxing & MMA,18,10,27
+243,12,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,Boxing & MMA,53.99,15,76.49
+244,12,Nike+ Fuelband SE,99,Boxing & MMA,59.4,15,84.15
+245,12,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Boxing & MMA,59.97,15,84.96
+246,12,Nike Women's Tempo Shorts,30,Boxing & MMA,18,10,27
+247,12,"Nike Women's Pro Core 3"" Compression Shorts",28,Boxing & MMA,16.8,10,25.2
+248,12,Nike Women's Free 4.0 Running Shoe,89.99,Boxing & MMA,53.99,15,76.49
+249,12,Under Armour Women's Micro G Skulpt Running S,54.97,Boxing & MMA,32.98,15,46.72
+250,12,Under Armour Women's Play Up Shorts,24.99,Boxing & MMA,14.99,10,22.49
+251,12,Brooks Women's Ghost 6 Running Shoe,89.99,Boxing & MMA,53.99,15,76.49
+252,12,Nike Women's Pro Victory Compression Bra,21.99,Boxing & MMA,13.19,10,19.79
+253,12,Nike Women's Free 5.0+ Running Shoe,99.99,Boxing & MMA,59.99,15,84.99
+254,12,Brooks Women's Ghost 6 Running Shoe,89.99,Boxing & MMA,53.99,15,76.49
+255,12,ASICS Women's GEL-Noosa Tri 9 Running Shoe,139.99,Boxing & MMA,83.99,20,111.99
+256,12,Elevation Training Mask 2.0,79.99,Boxing & MMA,47.99,15,67.99
+257,12,Under Armour Women's Tech T-Shirt,16.99,Boxing & MMA,10.19,5,16.14
+258,12,Nike Women's Free 5.0 TR FIT PRT 4 Training S,94.99,Boxing & MMA,56.99,15,80.74
+259,12,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Boxing & MMA,14.98,10,22.47
+260,12,ASICS Women's GEL-Nimbus 15 Running Shoe,119.99,Boxing & MMA,71.99,20,95.99
+261,12,ASICS Women's GEL-Cumulus 15 Running Shoe,89.99,Boxing & MMA,53.99,15,76.49
+262,12,Fitness Gear Pro Utility Bench,179.99,Boxing & MMA,107.99,20,143.99
+263,12,Nike Women's Legend V-Neck T-Shirt,25,Boxing & MMA,15,10,22.5
+264,12,Nike Dri-FIT Crew Sock 6 Pack,22,Boxing & MMA,13.2,10,19.8
+265,13,Elevation Training Mask 2.0,79.99,Electronics,47.99,15,67.99
+266,13,Under Armour Men's Ignite Camo II Slide,34.99,Electronics,20.99,10,31.49
+267,13,Nike Men's Comfort 2 Slide,44.99,Electronics,26.99,10,40.49
+268,13,Everlast PowerCore 2 Station Stand and Bag Ki,199.99,Electronics,119.99,20,159.99
+269,13,Under Armour Men's Ignite III Slide,34.99,Electronics,20.99,10,31.49
+270,13,Nike Men's Comfort 2 Slide,44.99,Electronics,26.99,10,40.49
+271,13,Under Armour Kids' Ignite III Slide,27.99,Electronics,16.79,10,25.19
+272,13,Under Armour Women's Ignite VI Slide,31.99,Electronics,19.19,10,28.79
+273,13,Under Armour Kids' Mercenary Slide,27.99,Electronics,16.79,10,25.19
+274,13,Nike Men's Benassi Swoosh Slide,21.99,Electronics,13.19,10,19.79
+275,13,Under Armour Girls' UA Ignite VI Slide,27.99,Electronics,16.79,10,25.19
+276,13,Under Armour Women's Ignite Slide,31.99,Electronics,19.19,10,28.79
+277,13,Under Armour Women's Ignite VI Camo Slide,34.99,Electronics,20.99,10,31.49
+278,13,Under Armour Men's Compression EV SL Slide,44.99,Electronics,26.99,10,40.49
+279,13,Nike Men's Air LeBron 3 Elite Slide,69.99,Electronics,41.99,15,59.49
+280,13,Under Armour Hustle Storm Medium Duffle Bag,34.99,Electronics,20.99,10,31.49
+281,13,Fitness Gear Heavy Bag Stand,99.99,Electronics,59.99,15,84.99
+282,13,Under Armour Women's Ignite PIP VI Slide,31.99,Electronics,19.19,10,28.79
+283,13,Under Armour Kids' Mercenary Slide,27.99,Electronics,16.79,10,25.19
+284,13,Under Armour Women's Ignite VI Slide,31.99,Electronics,19.19,10,28.79
+285,13,Under Armour Men's Mercenary Slide,34.99,Electronics,20.99,10,31.49
+286,13,Under Armour Men's Ignite III Slide,34.99,Electronics,20.99,10,31.49
+287,13,Nike Men's Comfort 2 Slide,44.99,Electronics,26.99,10,40.49
+288,13,Nike Men's Air LeBron 3 Elite Slide,69.99,Electronics,41.99,15,59.49
+289,38,Nike+ Fuelband SE,99,Kids' Golf Clubs,59.4,15,84.15
+290,38,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Kids' Golf Clubs,59.97,15,84.96
+291,38,Garmin Forerunner 220 GPS Watch,249.99,Kids' Golf Clubs,149.99,20,199.99
+292,38,Garmin Women's Forerunner 10 GPS Watch,129.99,Kids' Golf Clubs,77.99,20,103.99
+293,38,Garmin vivofit Fitness Band with HRM,169.99,Kids' Golf Clubs,101.99,20,135.99
+294,38,Garmin Forerunner 10 GPS Watch,129.99,Kids' Golf Clubs,77.99,20,103.99
+295,38,Fitbit The One Wireless Activity & Sleep Trac,99.95,Kids' Golf Clubs,59.97,15,84.96
+296,38,Nike+ Sportwatch GPS Powered by TomTom with S,169,Kids' Golf Clubs,101.4,20,135.2
+297,38,Garmin vivofit Fitness Band,129.99,Kids' Golf Clubs,77.99,20,103.99
+298,38,Garmin Forerunner 15 GPS Watch with HRM,199.99,Kids' Golf Clubs,119.99,20,159.99
+299,38,Jawbone UP24 Activity Tracker,149.99,Kids' Golf Clubs,89.99,20,119.99
+300,38,Garmin Forerunner 620 GPS Watch with Heart Ra,449.99,Kids' Golf Clubs,269.99,20,359.99
+301,38,Garmin Forerunner 15 GPS Watch,169.99,Kids' Golf Clubs,101.99,20,135.99
+302,38,Nike+ Sportwatch GPS Powered by TomTom,149,Kids' Golf Clubs,89.4,20,119.2
+303,38,Garmin Forerunner 910XT GPS Watch,399.99,Kids' Golf Clubs,239.99,20,319.99
+304,38,Garmin Forerunner 220 GPS Watch with Premium ,299.99,Kids' Golf Clubs,179.99,20,239.99
+305,38,Mio ALPHA Heart Rate Monitor/Sport Watch,199,Kids' Golf Clubs,119.4,20,159.2
+306,38,Polar FT4 Heart Rate Monitor,89.99,Kids' Golf Clubs,53.99,15,76.49
+307,38,Garmin Forerunner 910XT with HRM,449.99,Kids' Golf Clubs,269.99,20,359.99
+308,38,Fitbit Zip Wireless Activity Tracker,59.95,Kids' Golf Clubs,35.97,15,50.96
+309,38,Fitbit Aria Wi-Fi Smart Scale,129.95,Kids' Golf Clubs,77.97,20,103.96
+310,38,Beats by Dr. Dre Solo2 Headphones,199.95,Kids' Golf Clubs,119.97,20,159.96
+311,38,Polar Loop Activity Tracker,109.95,Kids' Golf Clubs,65.97,20,87.96
+312,38,TomTom Multi-Sport Cardio + Cycle GPS Watch w,399.99,Kids' Golf Clubs,239.99,20,319.99
+313,15,Under Armour Women's Seamless Essential Sport,24.99,Training by Sport,14.99,10,22.49
+314,15,Nike Women's Studio Wrap,36.99,Training by Sport,22.19,10,33.29
+315,15,Nike Women's Legend Tight Capris 2.0,60,Training by Sport,36,15,51
+316,15,Nike Women's Legend Regular Capris 2.0,65,Training by Sport,39,15,55.25
+317,15,Nike Women's Printed Studio Wrap,36.99,Training by Sport,22.19,10,33.29
+318,15,Under Armour Women's Seamless Advantage Sport,29.99,Training by Sport,17.99,10,26.99
+319,15,Under Armour Women's HeatGear Sonic Printed C,29.99,Training by Sport,17.99,10,26.99
+320,15,Manduka PRO Yoga Mat,100,Training by Sport,60,20,80
+321,15,Reebok Women's Fitness Essentials Regular Fit,34,Training by Sport,20.4,10,30.6
+322,15,Nike Women's Studio Wrap Three-Part Pack,81.99,Training by Sport,49.19,15,69.69
+323,15,Under Armour Women's Achieve T-Back Tank Top,24.99,Training by Sport,14.99,10,22.49
+324,15,Reebok Women's Fitness Essential Slim Fit Cap,34,Training by Sport,20.4,10,30.6
+325,15,lucy Women's Hatha Capri Leggings,79,Training by Sport,47.4,15,67.15
+326,15,Mission Enduracool Instant Cooling Towel,14.99,Training by Sport,8.99,5,14.24
+327,15,Reebok Women's Performance Regular Motion Fit,50,Training by Sport,30,15,42.5
+328,15,Under Armour Women's Perfect Flowy Tank Top,32.99,Training by Sport,19.79,10,29.69
+329,15,Under Armour Women's Essential Banded Tank To,49.99,Training by Sport,29.99,10,44.99
+330,15,Nike Women's Dri-FIT Cotton Tight Capris,40,Training by Sport,24,10,36
+331,15,The North Face Women's Be Calm Tank Top,38,Training by Sport,22.8,10,34.2
+332,15,Under Armour Women's Pure Stretch Sheer Cheek,12,Training by Sport,7.2,5,11.4
+333,15,lucy Women's Heart Center Tank Top,55,Training by Sport,33,15,46.75
+334,15,Reebok Women's Fitness Essentials Regular Fit,38,Training by Sport,22.8,10,34.2
+335,15,Nike Women's Dri-FIT Cotton Regular-Fit Capri,45,Training by Sport,27,10,40.5
+336,15,"Nike Swoosh Headband - 2""",5,Training by Sport,3,5,4.75
+337,16,Fitness Gear 300 lb Olympic Weight Set,209.99,As Seen on  TV!,125.99,20,167.99
+338,16,Nike Men's Fingertrap Max Training Shoe,124.99,As Seen on  TV!,74.99,20,99.99
+339,16,Elevation Training Mask 2.0,79.99,As Seen on  TV!,47.99,15,67.99
+340,16,PRIMED 12' x 6' Instant Soccer Goal,149.99,As Seen on  TV!,89.99,20,119.99
+341,16,Fitness Gear Pro Utility Bench,179.99,As Seen on  TV!,107.99,20,143.99
+342,16,SKLZ Quickster 12' x 6' Portable Soccer Goal,149.99,As Seen on  TV!,89.99,20,119.99
+343,16,Teeter Hang Ups NXT-S Inversion Table,299.99,As Seen on  TV!,179.99,20,239.99
+344,16,Under Armour Men's Ignite Camo II Slide,34.99,As Seen on  TV!,20.99,10,31.49
+345,16,Fitness Gear Pro Olympic Bench,249.99,As Seen on  TV!,149.99,20,199.99
+346,16,Fitness Gear Pro Half Rack,349.99,As Seen on  TV!,209.99,20,279.99
+347,16,adidas Brazuca Final Rio Top Glider Soccer Ba,29.99,As Seen on  TV!,17.99,10,26.99
+348,16,McDavid HEX Extended Leg Sleeves,29.99,As Seen on  TV!,17.99,10,26.99
+349,16,Franklin 12' x 6' Competition Steel Soccer Go,119.99,As Seen on  TV!,71.99,20,95.99
+350,16,Nike Men's Comfort 2 Slide,44.99,As Seen on  TV!,26.99,10,40.49
+351,16,Jugs Complete Practice Travel Screen,149.99,As Seen on  TV!,89.99,20,119.99
+352,16,Under Armour Men's Ignite III Slide,34.99,As Seen on  TV!,20.99,10,31.49
+353,16,Nike Men's Comfort 2 Slide,44.99,As Seen on  TV!,26.99,10,40.49
+354,16,Nike Men's Fingertrap Max Training Shoe,124.99,As Seen on  TV!,74.99,20,99.99
+355,16,Nike Men's Free Trainer 5.0 Training Shoe,99.99,As Seen on  TV!,59.99,15,84.99
+356,16,PRIMED 7' x 5' Soccer Trainer,99.99,As Seen on  TV!,59.99,15,84.99
+357,16,Under Armour Kids' Ignite III Slide,27.99,As Seen on  TV!,16.79,10,25.19
+358,16,Reebok Women's Solid Classic Tank Swimsuit,64.99,As Seen on  TV!,38.99,15,55.24
+359,16,Nike Men's Free TR 5.0 TB Training Shoe,99.99,As Seen on  TV!,59.99,15,84.99
+360,16,Under Armour Women's Ignite VI Slide,31.99,As Seen on  TV!,19.19,10,28.79
+361,17,Bowflex Uppercut,129.99,Cleats,77.99,20,103.99
+362,17,Perfect Fitness Perfect Ab Strap Pro,29.99,Cleats,17.99,10,26.99
+363,17,Total Gym 1100,199.99,Cleats,119.99,20,159.99
+364,17,Total Gym 1400,299.99,Cleats,179.99,20,239.99
+365,17,Perfect Fitness Perfect Rip Deck,59.99,Cleats,35.99,15,50.99
+366,17,Gazelle Supreme Glider,299.99,Cleats,179.99,20,239.99
+367,17,Gazelle Edge Pro Glider,149.99,Cleats,89.99,20,119.99
+368,17,Pink BOSU Balance Trainer,119.99,Cleats,71.99,20,95.99
+369,17,BOSU Ballast Ball,59.99,Cleats,35.99,15,50.99
+370,17,Kettleglove Unisex Kettleball Gloves,19.99,Cleats,11.99,5,18.99
+371,17,Total Gym 1900,399.99,Cleats,239.99,20,319.99
+372,17,Perfect Ab Carver Pro,39.99,Cleats,23.99,10,35.99
+373,17,Perfect Fitness Multi Gym Pro,39.99,Cleats,23.99,10,35.99
+374,17,Perfect Pushup BASIC,19.99,Cleats,11.99,5,18.99
+375,17,Gold's Gym K10 7-in-1 Body Building Kit,49.99,Cleats,29.99,10,44.99
+376,17,Perfect Pushup V2 Performance,29.99,Cleats,17.99,10,26.99
+377,17,Perfect Pullup Basic,19.99,Cleats,11.99,5,18.99
+378,17,AB Roller Evolution,29.99,Cleats,17.99,10,26.99
+379,17,Perfect Multi-Gym - As Seen on TV!,29.99,Cleats,17.99,10,26.99
+380,17,BOSU Balance Trainer,119.99,Cleats,71.99,20,95.99
+381,18,Under Armour Men's Highlight MC Football Clea,129.99,Men's Footwear,77.99,20,103.99
+382,18,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Men's Footwear,113.99,20,151.99
+383,18,Under Armour Men's Renegade D Mid Football Cl,89.99,Men's Footwear,53.99,15,76.49
+384,18,Under Armour Men's Renegade D Mid Football Cl,89.99,Men's Footwear,53.99,15,76.49
+385,18,Jordan Men's VI Retro TD Football Cleat,134.99,Men's Footwear,80.99,20,107.99
+386,18,Nike Men's Vapor Carbon Elite TD Football Cle,129.99,Men's Footwear,77.99,20,103.99
+387,18,adidas Kids' F5 Messi FG Soccer Cleat,34.99,Men's Footwear,20.99,10,31.49
+389,18,Under Armour Men's Highlight MC Football Clea,129.99,Men's Footwear,77.99,20,103.99
+390,18,Under Armour Men's Highlight MC Alter Ego Fla,139.99,Men's Footwear,83.99,20,111.99
+391,18,Under Armour Men's Renegade D Mid Football Cl,89.99,Men's Footwear,53.99,15,76.49
+392,18,Under Armour Kids' Highlight RM Alter Ego Sup,59.99,Men's Footwear,35.99,15,50.99
+393,18,Under Armour Men's Highlight MC Football Clea,129.99,Men's Footwear,77.99,20,103.99
+394,18,Nike Men's Fingertrap Max Training Shoe,124.99,Men's Footwear,74.99,20,99.99
+395,18,adidas Kids' F10 Messi TRX FG Soccer Cleat,44.99,Men's Footwear,26.99,10,40.49
+396,18,Under Armour Men's Highlight MC Football Clea,129.99,Men's Footwear,77.99,20,103.99
+397,18,Under Armour Kids' Highlight RM Football Clea,54.99,Men's Footwear,32.99,15,46.74
+398,18,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99,Men's Footwear,35.99,15,50.99
+399,18,Under Armour Men's Highlight MC Alter Ego Hul,139.99,Men's Footwear,83.99,20,111.99
+400,18,Under Armour Men's Highlight MC Football Clea,129.99,Men's Footwear,77.99,20,103.99
+401,18,adidas Men's F10 Messi FG Soccer Cleat,59.99,Men's Footwear,35.99,15,50.99
+402,18,Under Armour Men's Highlight MC Alter Ego Cap,139.99,Men's Footwear,83.99,20,111.99
+403,18,Nike Men's CJ Elite 2 TD Football Cleat,129.99,Men's Footwear,77.99,20,103.99
+404,18,Nike Men's Vapor Carbon Elite TD Football Cle,129.99,Men's Footwear,77.99,20,103.99
+405,19,Under Armour Men's Highlight MC Football Clea,129.99,Women's Footwear,77.99,20,103.99
+406,19,Nike+ Fuelband SE,99,Women's Footwear,59.4,15,84.15
+407,19,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Women's Footwear,113.99,20,151.99
+408,19,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Women's Footwear,59.97,15,84.96
+409,19,Under Armour Men's Renegade D Mid Football Cl,89.99,Women's Footwear,53.99,15,76.49
+410,19,Nike Men's Free 5.0+ Running Shoe,99.99,Women's Footwear,59.99,15,84.99
+411,19,Under Armour Men's Renegade D Mid Football Cl,89.99,Women's Footwear,53.99,15,76.49
+412,19,Jordan Men's VI Retro TD Football Cleat,134.99,Women's Footwear,80.99,20,107.99
+413,19,Nike Men's Vapor Carbon Elite TD Football Cle,129.99,Women's Footwear,77.99,20,103.99
+415,19,Under Armour Men's Highlight MC Football Clea,129.99,Women's Footwear,77.99,20,103.99
+416,19,Nike Men's Free 5.0 Running Shoe,99.99,Women's Footwear,59.99,15,84.99
+417,19,Under Armour Men's Highlight MC Alter Ego Fla,139.99,Women's Footwear,83.99,20,111.99
+418,19,Under Armour Men's Renegade D Mid Football Cl,89.99,Women's Footwear,53.99,15,76.49
+419,19,Brooks Men's Adrenaline GTS 13 Running Shoe,89.99,Women's Footwear,53.99,15,76.49
+420,19,Under Armour Men's Highlight MC Football Clea,129.99,Women's Footwear,77.99,20,103.99
+421,19,Nike Men's Fingertrap Max Training Shoe,124.99,Women's Footwear,74.99,20,99.99
+422,19,Under Armour Men's Highlight MC Football Clea,129.99,Women's Footwear,77.99,20,103.99
+423,19,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99,Women's Footwear,35.99,15,50.99
+424,19,Under Armour Men's Highlight MC Alter Ego Hul,139.99,Women's Footwear,83.99,20,111.99
+425,19,Nike Men's Air Max 2014 Running Shoe,149.99,Women's Footwear,89.99,20,119.99
+426,19,Under Armour Men's Highlight MC Football Clea,129.99,Women's Footwear,77.99,20,103.99
+427,19,adidas Men's F10 Messi FG Soccer Cleat,59.99,Women's Footwear,35.99,15,50.99
+428,19,Under Armour Men's Highlight MC Alter Ego Cap,139.99,Women's Footwear,83.99,20,111.99
+429,20,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+430,20,Nike+ Fuelband SE,99,Kids' Footwear,59.4,15,84.15
+431,20,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Kids' Footwear,59.97,15,84.96
+432,20,Nike Women's Free 4.0 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+433,20,Under Armour Women's Micro G Skulpt Running S,54.97,Kids' Footwear,32.98,15,46.72
+434,20,Brooks Women's Ghost 6 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+435,20,Nike Women's Free 5.0+ Running Shoe,99.99,Kids' Footwear,59.99,15,84.99
+436,20,Brooks Women's Ghost 6 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+437,20,ASICS Women's GEL-Noosa Tri 9 Running Shoe,139.99,Kids' Footwear,83.99,20,111.99
+438,20,Nike Women's Free 5.0 TR FIT PRT 4 Training S,94.99,Kids' Footwear,56.99,15,80.74
+439,20,ASICS Women's GEL-Nimbus 15 Running Shoe,119.99,Kids' Footwear,71.99,20,95.99
+440,20,Nike Men's Mercurial Victory IV FG Soccer Cle,59.97,Kids' Footwear,35.98,15,50.97
+441,20,ASICS Women's GEL-Cumulus 15 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+442,20,Nike Dri-FIT Crew Sock 6 Pack,22,Kids' Footwear,13.2,10,19.8
+443,20,Nike Women's Air Pegasus+ 30 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+444,20,Nike Women's Downshifter 5 Running Shoe,49.98,Kids' Footwear,29.99,10,44.98
+445,20,Nike Women's Air Pegasus+ 30 Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+446,20,Nike Women's LunarGlide+ 5 Running Shoe,109.99,Kids' Footwear,65.99,20,87.99
+447,20,Nike Women's Free TR Connect 2 Training Shoe,109.99,Kids' Footwear,65.99,20,87.99
+448,20,Nike Women's Zoom Fly Running Shoe,89.99,Kids' Footwear,53.99,15,76.49
+449,20,Mizuno Women's Wave Inspire 9 Running Shoe,79.97,Kids' Footwear,47.98,15,67.97
+450,20,Garmin Forerunner 220 GPS Watch,249.99,Kids' Footwear,149.99,20,199.99
+451,20,Garmin Women's Forerunner 10 GPS Watch,129.99,Kids' Footwear,77.99,20,103.99
+452,20,Garmin vivofit Fitness Band with HRM,169.99,Kids' Footwear,101.99,20,135.99
+453,21,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Featured Shops,59.99,15,84.99
+454,21,adidas Kids' F5 Messi FG Soccer Cleat,34.99,Featured Shops,20.99,10,31.49
+455,21,Under Armour Kids' Highlight RM Alter Ego Sup,59.99,Featured Shops,35.99,15,50.99
+456,21,adidas Kids' F10 Messi TRX FG Soccer Cleat,44.99,Featured Shops,26.99,10,40.49
+457,21,Under Armour Kids' Highlight RM Football Clea,54.99,Featured Shops,32.99,15,46.74
+458,21,Nike Kids' Grade School LeBron XI Basketball ,139.99,Featured Shops,83.99,20,111.99
+459,21,Under Armour Kids' Highlight RM Alter Ego Cap,59.99,Featured Shops,35.99,15,50.99
+460,21,Under Armour Kids' Highlight RM Alter Ego Bat,59.99,Featured Shops,35.99,15,50.99
+461,21,Under Armour Kids' Highlight RM Football Clea,54.99,Featured Shops,32.99,15,46.74
+462,21,Under Armour Kids' Highlight RM Alter Ego Fla,59.99,Featured Shops,35.99,15,50.99
+463,21,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Featured Shops,59.99,15,84.99
+464,21,Nike Kids' Vapor Strike 4 Mid TD Football Cle,59.99,Featured Shops,35.99,15,50.99
+465,21,Under Armour Kids' Highlight RM Football Clea,54.99,Featured Shops,32.99,15,46.74
+466,21,Under Armour Kids' Highlight RM Alter Ego Hul,59.99,Featured Shops,35.99,15,50.99
+467,21,Nike Kids' Vapor Strike 4 Mid TD Football Cle,59.99,Featured Shops,35.99,15,50.99
+468,21,Under Armour Kids' C1N MC Football Cleat,69.99,Featured Shops,41.99,15,59.49
+469,21,Nike Kids' Vapor Strike 4 Mid TD Football Cle,59.99,Featured Shops,35.99,15,50.99
+470,21,adidas Kids' RG III Mid Football Cleat,69.99,Featured Shops,41.99,15,59.49
+471,21,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Featured Shops,59.99,15,84.99
+472,21,Nike Kids' Vapor Strike 4 Mid TD Football Cle,59.99,Featured Shops,35.99,15,50.99
+473,21,Under Armour Kids' Highlight RM Football Clea,54.99,Featured Shops,32.99,15,46.74
+474,21,Nike Hyper Elite Crew Basketball Sock,18,Featured Shops,10.8,5,17.1
+475,21,Nike Kids' Vapor Strike 4 Mid TD Football Cle,59.99,Featured Shops,35.99,15,50.99
+476,21,Reebok All Sport Athletic Sock,8,Featured Shops,4.8,5,7.6
+477,22,Nike Women's Tempo Shorts,30,Accessories,18,10,27
+478,22,Nike Women's Tempo Shorts,30,Accessories,18,10,27
+479,22,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,Accessories,53.99,15,76.49
+480,22,Nike+ Fuelband SE,99,Accessories,59.4,15,84.15
+481,22,Top Flite Women's XL 12-Piece Complete Set - ,179.98,Accessories,107.99,20,143.98
+482,22,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Accessories,59.97,15,84.96
+483,22,Nike Women's Tempo Shorts,30,Accessories,18,10,27
+484,22,Nike Men's Free 5.0+ Running Shoe,99.99,Accessories,59.99,15,84.99
+485,22,"Nike Women's Pro Core 3"" Compression Shorts",28,Accessories,16.8,10,25.2
+486,22,Coleman River Gorge 6 Person Dome Tent,79.98,Accessories,47.99,15,67.98
+487,22,Jordan Men's VI Retro TD Football Cleat,134.99,Accessories,80.99,20,107.99
+488,22,SOLE E25 Elliptical,999.99,Accessories,599.99,20,799.99
+489,22,Nike Kids' Grade School KD VI Basketball Shoe,99.99,Accessories,59.99,15,84.99
+490,22,Nike Women's Free 4.0 Running Shoe,89.99,Accessories,53.99,15,76.49
+491,22,Under Armour Women's Micro G Skulpt Running S,54.97,Accessories,32.98,15,46.72
+492,22,Nike Men's Free 5.0 Running Shoe,99.99,Accessories,59.99,15,84.99
+493,22,Brooks Women's Ghost 6 Running Shoe,89.99,Accessories,53.99,15,76.49
+494,22,Nike Women's Pro Victory Compression Bra,21.99,Accessories,13.19,10,19.79
+495,22,Slazenger Women's Ava Sleeveless Fashion Golf,32,Accessories,19.2,10,28.8
+496,22,SOLE F85 Treadmill,1799.99,Accessories,1079.99,20,1439.99
+497,22,Nike Women's Free 5.0+ Running Shoe,99.99,Accessories,59.99,15,84.99
+498,22,Brooks Men's Adrenaline GTS 13 Running Shoe,89.99,Accessories,53.99,15,76.49
+499,22,Brooks Women's Ghost 6 Running Shoe,89.99,Accessories,53.99,15,76.49
+500,22,Kijaro Dual Lock Chair,29.99,Accessories,17.99,10,26.99
+501,24,Nike Men's USA White Home Stadium Soccer Jers,90,Women's Apparel,54,15,76.5
+502,24,Nike Men's Dri-FIT Victory Golf Polo,50,Women's Apparel,30,15,42.5
+503,24,Nike Youth USA Away Stadium Replica Soccer Je,75,Women's Apparel,45,15,63.75
+504,24,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,Women's Apparel,17.99,10,26.99
+505,24,Nike Men's USA Away Stadium Replica Soccer Je,90,Women's Apparel,54,15,76.5
+506,24,adidas Men's Germany Home Soccer Jersey,90,Women's Apparel,54,15,76.5
+507,24,Nike+ Fuelband SE,99,Women's Apparel,59.4,15,84.15
+508,24,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Women's Apparel,113.99,20,151.99
+509,24,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,Women's Apparel,23.99,10,35.99
+510,24,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Women's Apparel,59.97,15,84.96
+511,24,"Nike Women's Pro Core 3"" Compression Shorts",28,Women's Apparel,16.8,10,25.2
+512,24,Nike Men's Flat Front Tech Golf Shorts,65,Women's Apparel,39,15,55.25
+513,24,adidas Brazuca 2014 Official Match Ball,159.99,Women's Apparel,95.99,20,127.99
+514,24,adidas Men's Germany Black/Red Away Match Soc,90,Women's Apparel,54,15,76.5
+515,24,adidas Kids' F5 Messi FG Soccer Cleat,34.99,Women's Apparel,20.99,10,31.49
+516,24,Callaway X Hot Laser Rangefinder,229.99,Women's Apparel,137.99,20,183.99
+518,24,Nike Women's Pro Victory Compression Bra,21.99,Women's Apparel,13.19,10,19.79
+519,24,adidas Men's Mexico Home Soccer Jersey,90,Women's Apparel,54,15,76.5
+520,24,adidas Men's Ultimate Short Sleeve Shirt,22,Women's Apparel,13.2,10,19.8
+521,24,Nike Men's Dri-FIT Flat Front Tech Golf Pants,80,Women's Apparel,48,15,68
+522,24,Reebok Men's Full Zip Training Jacket,29.97,Women's Apparel,17.98,10,26.97
+523,24,adidas Kids' F10 Messi TRX FG Soccer Cleat,44.99,Women's Apparel,26.99,10,40.49
+524,24,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99,Women's Apparel,35.99,15,50.99
+525,25,Nike Women's Tempo Shorts,30,Boys' Apparel,18,10,27
+526,25,Nike Men's USA White Home Stadium Soccer Jers,90,Boys' Apparel,54,15,76.5
+527,25,Nike Women's Tempo Shorts,30,Boys' Apparel,18,10,27
+528,25,Nike Youth USA Away Stadium Replica Soccer Je,75,Boys' Apparel,45,15,63.75
+529,25,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,Boys' Apparel,17.99,10,26.99
+530,25,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,Boys' Apparel,53.99,15,76.49
+531,25,Nike Men's USA Away Stadium Replica Soccer Je,90,Boys' Apparel,54,15,76.5
+532,25,adidas Men's Germany Home Soccer Jersey,90,Boys' Apparel,54,15,76.5
+533,25,Nike+ Fuelband SE,99,Boys' Apparel,59.4,15,84.15
+534,25,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,Boys' Apparel,113.99,20,151.99
+535,25,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,Boys' Apparel,23.99,10,35.99
+536,25,Top Flite Women's XL 12-Piece Complete Set - ,179.98,Boys' Apparel,107.99,20,143.98
+537,25,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Boys' Apparel,59.97,15,84.96
+538,25,Nike Women's Tempo Shorts,30,Boys' Apparel,18,10,27
+539,25,"Nike Women's Pro Core 3"" Compression Shorts",28,Boys' Apparel,16.8,10,25.2
+540,25,Coleman River Gorge 6 Person Dome Tent,79.98,Boys' Apparel,47.99,15,67.98
+541,25,adidas Brazuca 2014 Official Match Ball,159.99,Boys' Apparel,95.99,20,127.99
+542,25,adidas Men's Germany Black/Red Away Match Soc,90,Boys' Apparel,54,15,76.5
+543,25,Lady Hagen Women's Milan Golf Polo,25,Boys' Apparel,15,10,22.5
+544,25,adidas Kids' F5 Messi FG Soccer Cleat,34.99,Boys' Apparel,20.99,10,31.49
+545,25,Callaway X Hot Laser Rangefinder,229.99,Boys' Apparel,137.99,20,183.99
+546,25,Nike Women's Free 4.0 Running Shoe,89.99,Boys' Apparel,53.99,15,76.49
+548,25,Under Armour Women's Micro G Skulpt Running S,54.97,Boys' Apparel,32.98,15,46.72
+549,26,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Girls' Apparel,35.99,15,50.99
+550,26,adidas Men's 2014 All-Star Game Tactile Hunte,20,Girls' Apparel,12,5,19
+551,26,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Girls' Apparel,35.99,15,50.99
+552,26,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Girls' Apparel,35.99,15,50.99
+553,26,adidas Men's 2014 MLS All-Star Game Dueling T,24,Girls' Apparel,14.4,10,21.6
+554,26,adidas Men's 2014 MLS All-Star Game Cross Bla,20,Girls' Apparel,12,5,19
+555,26,adidas Original Men's 2014 MLS All-Star Game ,28,Girls' Apparel,16.8,10,25.2
+556,26,adidas Original Men's 2014 MLS All-Star Game ,28,Girls' Apparel,16.8,10,25.2
+557,26,adidas Men's 2014 MLS All-Star Game Rose City,28,Girls' Apparel,16.8,10,25.2
+558,26,adidas Men's 2014 MLS All-Star Game Crest Gre,28,Girls' Apparel,16.8,10,25.2
+559,26,adidas Women's 2014 MLS All-Star Game Dueling,28,Girls' Apparel,16.8,10,25.2
+560,26,adidas Men's 2014 MLS All-Star Game Replica B,85,Girls' Apparel,51,15,72.25
+561,26,adidas Men's 2014 MLS All-Star Game Lumber Hu,22,Girls' Apparel,13.2,10,19.8
+562,26,adidas Men's 2014 MLS All-Star Game Axis Hunt,22,Girls' Apparel,13.2,10,19.8
+563,26,adidas Men's Germany 2014 FIFA World Cup Braz,22,Girls' Apparel,13.2,10,19.8
+564,26,Nike Men's Deutschland Weltmeister Winners Bl,30,Girls' Apparel,18,10,27
+565,26,adidas Youth Germany Black/Red Away Match Soc,70,Girls' Apparel,42,15,59.5
+566,26,adidas Men's Germany Black/Red Away Match Soc,90,Girls' Apparel,54,15,76.5
+567,26,adidas Men's Germany Black Crest Away Tee,25,Girls' Apparel,15,10,22.5
+568,26,adidas Youth Germany Black Crest Tee,18,Girls' Apparel,10.8,5,17.1
+569,26,adidas Men's Germany Home Soccer Jersey,90,Girls' Apparel,54,15,76.5
+570,26,adidas Men's Germany Home Replica White Top,50,Girls' Apparel,30,15,42.5
+571,26,TYR Boys' Venom Blade Splice Jammer,51.99,Girls' Apparel,31.19,15,44.19
+572,26,TYR Boys' Team Digi Jammer,39.99,Girls' Apparel,23.99,10,35.99
+573,27,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Accessories,35.99,15,50.99
+574,27,adidas Men's 2014 All-Star Game Tactile Hunte,20,Accessories,12,5,19
+575,27,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Accessories,35.99,15,50.99
+576,27,Lotto Men's Zhero Gravity V 700 TF Soccer Cle,59.99,Accessories,35.99,15,50.99
+577,27,adidas Men's 2014 MLS All-Star Game Dueling T,24,Accessories,14.4,10,21.6
+578,27,adidas Men's 2014 MLS All-Star Game Cross Bla,20,Accessories,12,5,19
+579,27,adidas Original Men's 2014 MLS All-Star Game ,28,Accessories,16.8,10,25.2
+580,27,adidas Original Men's 2014 MLS All-Star Game ,28,Accessories,16.8,10,25.2
+581,27,adidas Men's 2014 MLS All-Star Game Rose City,28,Accessories,16.8,10,25.2
+582,27,adidas Men's 2014 MLS All-Star Game Crest Gre,28,Accessories,16.8,10,25.2
+583,27,adidas Women's 2014 MLS All-Star Game Dueling,28,Accessories,16.8,10,25.2
+584,27,adidas Men's 2014 MLS All-Star Game Replica B,85,Accessories,51,15,72.25
+585,27,adidas Men's 2014 MLS All-Star Game Lumber Hu,22,Accessories,13.2,10,19.8
+586,27,adidas Men's 2014 MLS All-Star Game Axis Hunt,22,Accessories,13.2,10,19.8
+587,27,adidas Men's Germany 2014 FIFA World Cup Braz,22,Accessories,13.2,10,19.8
+588,27,Nike Men's Deutschland Weltmeister Winners Bl,30,Accessories,18,10,27
+589,27,adidas Youth Germany Black/Red Away Match Soc,70,Accessories,42,15,59.5
+590,27,adidas Men's Germany Black/Red Away Match Soc,90,Accessories,54,15,76.5
+591,27,adidas Men's Germany Black Crest Away Tee,25,Accessories,15,10,22.5
+592,27,adidas Youth Germany Black Crest Tee,18,Accessories,10.8,5,17.1
+593,27,adidas Men's Germany Home Soccer Jersey,90,Accessories,54,15,76.5
+594,27,adidas Men's Germany Home Replica White Top,50,Accessories,30,15,42.5
+595,27,TYR Girls' Phoenix Maxfit Back Swimsuit,75.99,Accessories,45.59,15,64.59
+596,27,TYR Girls' Palisade Maxfit Back Swimsuit,75.99,Accessories,45.59,15,64.59
+597,41,Nike+ Fuelband SE,99,Trade-In,59.4,15,84.15
+598,41,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Trade-In,59.97,15,84.96
+599,41,Callaway X Hot Laser Rangefinder,229.99,Trade-In,137.99,20,183.99
+600,41,Nike Women's Pro Victory Compression Bra,21.99,Trade-In,13.19,10,19.79
+601,41,GoPro HERO3+ Black Edition Camera,399.99,Trade-In,239.99,20,319.99
+602,41,Nike Elite Crew Basketball Sock,14,Trade-In,8.4,5,13.3
+603,41,Under Armour Hustle Backpack,54.99,Trade-In,32.99,15,46.74
+604,41,Nike Dri-FIT Crew Sock 6 Pack,22,Trade-In,13.2,10,19.8
+605,41,Nike Hoops Elite Team Backpack,70,Trade-In,42,15,59.5
+606,41,Bushnell 2014 Tour V3 Patriot Pack Laser Rang,299.99,Trade-In,179.99,20,239.99
+607,41,Garmin Approach S3 Golf GPS Watch,249.99,Trade-In,149.99,20,199.99
+608,41,Garmin Forerunner 220 GPS Watch,249.99,Trade-In,149.99,20,199.99
+609,41,Garmin Approach G6 Golf GPS,249.99,Trade-In,149.99,20,199.99
+610,41,GolfBuddy Voice GPS,119.99,Trade-In,71.99,20,95.99
+611,41,Garmin Women's Forerunner 10 GPS Watch,129.99,Trade-In,77.99,20,103.99
+612,41,Garmin vivofit Fitness Band with HRM,169.99,Trade-In,101.99,20,135.99
+613,41,Garmin Forerunner 10 GPS Watch,129.99,Trade-In,77.99,20,103.99
+614,41,Fitbit The One Wireless Activity & Sleep Trac,99.95,Trade-In,59.97,15,84.96
+615,41,Primos Truth Cam Supercharged Blackout 7 MP G,99.99,Trade-In,59.99,15,84.99
+616,41,Nike+ Sportwatch GPS Powered by TomTom with S,169,Trade-In,101.4,20,135.2
+617,41,Nike Hyper Elite Crew Basketball Sock,18,Trade-In,10.8,5,17.1
+618,41,Nike Women's Pro Printed Sports Bra,25.99,Trade-In,15.59,10,23.39
+619,41,Nike Vapor Crew Football Sock,18,Trade-In,10.8,5,17.1
+620,41,Nike Women's Pro Padded Sports Bra,40,Trade-In,24,10,36
+621,29,Under Armour Men's Performance Chino Straight,79.99,Shop By Sport,47.99,15,67.99
+622,29,Nike Kids' Toddler Air KD VII Basketball Shoe,49.99,Shop By Sport,29.99,10,44.99
+623,29,adidas Men's Energy Boost Icon Metal Baseball,149.99,Shop By Sport,89.99,20,119.99
+624,29,adidas Batting Helmet Hardware Kit,4.99,Shop By Sport,2.99,5,4.74
+625,29,Nike Men's Kobe IX Elite Low Basketball Shoe,199.99,Shop By Sport,119.99,20,159.99
+626,29,Nike Men's KD VII Basketball Shoe,149.99,Shop By Sport,89.99,20,119.99
+627,29,Under Armour Girls' Toddler Spine Surge Runni,39.99,Shop By Sport,23.99,10,35.99
+628,29,Under Armour Elevate 22 oz. Leak-Proof Water ,15.99,Shop By Sport,9.59,5,15.19
+629,29,Nike Men's LeBron XI Low Basketball Shoe,169.99,Shop By Sport,101.99,20,135.99
+630,29,ASICS Men's GEL-Blast 6 Volleyball Shoe,139.99,Shop By Sport,83.99,20,111.99
+631,29,Nike Lunarwaverly Golf Shoes,139.99,Shop By Sport,83.99,20,111.99
+632,29,Nike Lunarwaverly Golf Shoes,139.99,Shop By Sport,83.99,20,111.99
+633,29,Nike Lunarwaverly Golf Shoes,139.99,Shop By Sport,83.99,20,111.99
+634,29,Nike Lunarwaverly Golf Shoes,139.99,Shop By Sport,83.99,20,111.99
+635,29,Nike Lunar Mount Royal Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+636,29,Nike Lunar Mount Royal Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+637,29,Nike Lunar Mount Royal Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+638,29,Nike Lunar Mount Royal Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+639,29,Columbia Men's PFG Terminal Elements Marlin T,30,Shop By Sport,18,10,27
+640,29,Columbia Men's PFG Fear the Moray T-Shirt,30,Shop By Sport,18,10,27
+641,29,Columbia Men's PFG Master Caster T-Shirt,30,Shop By Sport,18,10,27
+642,29,Columbia Men's PFG Anchor Tough T-Shirt,30,Shop By Sport,18,10,27
+643,29,Nike Lunar Cypress Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+644,29,Nike Lunar Cypress Golf Shoes,99.99,Shop By Sport,59.99,15,84.99
+645,30,Roxy Women's Steamer Long Sleeve Rash Guard,68,Men's Golf Clubs,40.8,15,57.8
+646,30,Merrell Women's Grassbow Sport Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+647,30,Merrell Women's Siren Mid Waterproof Hiking B,134.99,Men's Golf Clubs,80.99,20,107.99
+648,30,Merrell Women's Siren Mid Waterproof Hiking B,134.99,Men's Golf Clubs,80.99,20,107.99
+649,30,Merrell Men's Chameleon Prime Stretch Realtre,109.99,Men's Golf Clubs,65.99,20,87.99
+650,30,Merrell Men's Chameleon Prime Stretch Hiking ,109.99,Men's Golf Clubs,65.99,20,87.99
+651,30,Merrell Men's Chameleon Prime Stretch Realtre,129.99,Men's Golf Clubs,77.99,20,103.99
+652,30,Merrell Women's Grassbow Sport Waterproof Hik,129.99,Men's Golf Clubs,77.99,20,103.99
+653,30,Merrell Women's Grassbow Sport Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+654,30,Merrell Men's Moab Rover Waterproof Wide Hiki,109.99,Men's Golf Clubs,65.99,20,87.99
+655,30,Merrell Men's Moab Rover Waterproof Wide Hiki,109.99,Men's Golf Clubs,65.99,20,87.99
+656,30,Merrell Men's Moab Rover Waterproof Wide Hiki,109.99,Men's Golf Clubs,65.99,20,87.99
+657,30,Merrell Women's Azura Wide Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+658,30,Merrell Women's Azura Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+659,30,Merrell Men's Moab Rover Waterproof Wide Hiki,119.99,Men's Golf Clubs,71.99,20,95.99
+660,30,Merrell Men's Moab Rover Waterproof Hiking Sh,119.99,Men's Golf Clubs,71.99,20,95.99
+661,30,Merrell Women's Azura Wide Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+662,30,Merrell Women's Azura Hiking Shoe,99.99,Men's Golf Clubs,59.99,15,84.99
+663,30,Merrell Men's Moab Rover Mid Waterproof Wide ,139.99,Men's Golf Clubs,83.99,20,111.99
+664,30,Merrell Men's Moab Rover Mid Waterproof Wide ,139.99,Men's Golf Clubs,83.99,20,111.99
+665,30,Merrell Men's Moab Rover Mid Waterproof Hikin,139.99,Men's Golf Clubs,83.99,20,111.99
+666,30,Merrell Men's All Out Flash Trail Running Sho,109.99,Men's Golf Clubs,65.99,20,87.99
+667,30,Merrell Women's All Out Flash Trail Running S,109.99,Men's Golf Clubs,65.99,20,87.99
+668,30,Merrell Women's All Out Flash Trail Running S,109.99,Men's Golf Clubs,65.99,20,87.99
+669,31,Cleveland Golf My Custom Wedge 588 Forged RTX,179.99,Women's Golf Clubs,107.99,20,143.99
+670,31,Cleveland Golf Elite My Custom Wedge 588 Forg,209.99,Women's Golf Clubs,125.99,20,167.99
+671,31,Cleveland Golf Collegiate My Custom Wedge 588,209.99,Women's Golf Clubs,125.99,20,167.99
+672,31,PING G30 Driver,349,Women's Golf Clubs,209.4,20,279.2
+673,31,PING G30 Fairway Wood,249,Women's Golf Clubs,149.4,20,199.2
+674,31,PING G30 Hybrid,219,Women's Golf Clubs,131.4,20,175.2
+675,31,PING G30 Irons - (Steel) 4-UW,799,Women's Golf Clubs,479.4,20,639.2
+676,31,PING G30 Irons - (Graphite) 4-UW,899,Women's Golf Clubs,539.4,20,719.2
+677,31,TaylorMade White Smoke IN-12 Putter,99.99,Women's Golf Clubs,59.99,15,84.99
+678,31,TaylorMade White Smoke MC-72 Putter,99.99,Women's Golf Clubs,59.99,15,84.99
+679,31,Tour Edge Exotics CB Pro S Forged Wedge,99.99,Women's Golf Clubs,59.99,15,84.99
+680,31,Boccieri Golf EL C2-M Counterbalance Putter,149.99,Women's Golf Clubs,89.99,20,119.99
+681,31,Boccieri Golf EL C2-M Counterbalance Putter,119.99,Women's Golf Clubs,71.99,20,95.99
+682,31,Boccieri Golf EL L3-M Counterbalance Putter,149.99,Women's Golf Clubs,89.99,20,119.99
+683,31,Boccieri Golf EL L3-M Counterbalance Putter,119.99,Women's Golf Clubs,71.99,20,95.99
+684,31,PING Scottsdale TR Anser 2B Counterbalance Pu,199.99,Women's Golf Clubs,119.99,20,159.99
+685,31,"TaylorMade SLDR Irons - (Steel) 4-PW, AW",899.99,Women's Golf Clubs,539.99,20,719.99
+686,31,MDGolf Texas Longhorns Putter,79.99,Women's Golf Clubs,47.99,15,67.99
+687,31,MDGolf Alabama Crimson Tide Putter,79.99,Women's Golf Clubs,47.99,15,67.99
+688,31,Tour Edge XCG7 Irons - (Steel) 4-PW,499.99,Women's Golf Clubs,299.99,20,399.99
+689,31,Tour Edge XCG7 Irons - (Graphite) 4-PW,599.99,Women's Golf Clubs,359.99,20,479.99
+690,31,Tour Edge XCG7 X-LITE Hybrid/Irons - (Graphit,599.99,Women's Golf Clubs,359.99,20,479.99
+691,31,MDGolf Pittsburgh Penguins Putter,79.99,Women's Golf Clubs,47.99,15,67.99
+692,31,MDGolf Philadelphia Flyers Putter,79.99,Women's Golf Clubs,47.99,15,67.99
+693,32,Top Flite Women's XL 12-Piece Complete Set - ,179.98,Golf Apparel,107.99,20,143.98
+694,32,Callaway Women's Solaire Gems 20-Piece Comple,999.99,Golf Apparel,599.99,20,799.99
+695,32,Callaway Women's Solaire Gems 20-Piece Comple,999.99,Golf Apparel,599.99,20,799.99
+696,32,Wilson Women's Profile Petite 11-Piece Comple,299.99,Golf Apparel,179.99,20,239.99
+697,32,Tour Edge Women's Moda Silk 18-Piece Complete,599.99,Golf Apparel,359.99,20,479.99
+698,32,Cleveland Women's 588 Altitude Hybrid/Irons -,699.99,Golf Apparel,419.99,20,559.99
+699,32,Tour Edge Women's Moda Silk 18-Piece Complete,599.99,Golf Apparel,359.99,20,479.99
+700,32,Top Flite Women's 2014 XL Driver,29.99,Golf Apparel,17.99,10,26.99
+701,32,Top Flite Women's 2014 XL Fairway,19.99,Golf Apparel,11.99,5,18.99
+702,32,Top Flite Women's Tour Black PVD Wedge,59.99,Golf Apparel,35.99,15,50.99
+703,32,Top Flite Women's 2014 XL Hybrid,19.99,Golf Apparel,11.99,5,18.99
+704,32,Cobra Women's AMP CELL-S Irons - (Graphite) 5,499.99,Golf Apparel,299.99,20,399.99
+705,32,Cleveland Golf Women's 588 RTX CB Satin Chrom,119.99,Golf Apparel,71.99,20,95.99
+706,32,Top Flite Women's 2014 1.0 Blade Putter,29.99,Golf Apparel,17.99,10,26.99
+707,32,Top Flite Women's 2014 2.0 Mallet Putter,29.99,Golf Apparel,17.99,10,26.99
+708,32,Adams Golf Women's Idea Tech V4 Hybrid/Iron S,499.99,Golf Apparel,299.99,20,399.99
+709,32,Top Flite Women's Aero Adjustable Driver - Gr,99.99,Golf Apparel,59.99,15,84.99
+710,32,Top Flite Women's Aero Adjustable Driver - Pi,99.99,Golf Apparel,59.99,15,84.99
+711,32,Top Flite Women's Aero Fairway,49.99,Golf Apparel,29.99,10,44.99
+712,32,Top Flite Women's Aero Hybrid,49.99,Golf Apparel,29.99,10,44.99
+713,32,TaylorMade Women's RBZ SL Driver,199.99,Golf Apparel,119.99,20,159.99
+714,32,TaylorMade Women's RBZ SL Fairway,179.99,Golf Apparel,107.99,20,143.99
+715,32,TaylorMade Women's RBZ SL Rescue,129.99,Golf Apparel,77.99,20,103.99
+716,32,TaylorMade Women's RBZ SL Irons - (Graphite) ,449.99,Golf Apparel,269.99,20,359.99
+717,33,Under Armour Men's Performance Chino Straight,79.99,Golf Shoes,47.99,15,67.99
+718,33,Nike Lunarwaverly Golf Shoes,139.99,Golf Shoes,83.99,20,111.99
+719,33,Nike Lunar Cypress Golf Shoes,99.99,Golf Shoes,59.99,15,84.99
+720,33,LIJA Women's Eyelet Golf Skort,90,Golf Shoes,54,15,76.5
+721,33,LIJA Women's Golf Beanie,10.8,Golf Shoes,6.48,5,10.26
+722,33,LIJA Women's Golf Hat,27,Golf Shoes,16.2,10,24.3
+723,33,LIJA Women's Golf Visor,22.5,Golf Shoes,13.5,10,20.25
+724,33,LIJA Women's Mid-Length Panel Golf Shorts,100,Golf Shoes,60,20,80
+725,33,LIJA Women's Button Golf Dress,108,Golf Shoes,64.8,20,86.4
+726,33,LIJA Women's Ace Sleeveless Golf Polo,58.5,Golf Shoes,35.1,15,49.73
+727,33,LIJA Women's Long Sleeve Golf Quarter-Zip Pul,80,Golf Shoes,48,15,68
+728,33,LIJA Women's Eyelet Sleeveless Golf Polo,65,Golf Shoes,39,15,55.25
+729,33,LIJA Women's Open Neck Print Golf Polo,80,Golf Shoes,48,15,68
+730,33,LIJA Women's Argyle Golf Polo,80,Golf Shoes,48,15,68
+731,33,LIJA Women's Mandarin Sleeveless Golf Polo,63,Golf Shoes,37.8,15,53.55
+732,33,LILJA Women's Ace Golf Polo,70,Golf Shoes,42,15,59.5
+733,33,Nike Women's Lunar Empress Golf Shoes,99.99,Golf Shoes,59.99,15,84.99
+734,33,Black Clover Men's Premium Clover Mesh Back G,27,Golf Shoes,16.2,10,24.3
+735,33,Black Clover Men's Premium Clover Mesh Back G,27,Golf Shoes,16.2,10,24.3
+736,33,Black Clover Men's Premium Clover Fitted Golf,27,Golf Shoes,16.2,10,24.3
+737,33,Black Clover Men's Premium Clover Flex Fit Go,27,Golf Shoes,16.2,10,24.3
+738,33,Sport Haley Women's Embossed Golf Polo,76,Golf Shoes,45.6,15,64.6
+739,33,Nike TW 14 Mesh Golf Shoes,169.99,Golf Shoes,101.99,20,135.99
+740,33,Nike TW 14 Mesh Golf Shoes,169.99,Golf Shoes,101.99,20,135.99
+741,34,FootJoy GreenJoys Golf Shoes,59.99,Golf Bags & Carts,35.99,15,50.99
+742,34,FootJoy GreenJoys Golf Shoes,59.99,Golf Bags & Carts,35.99,15,50.99
+743,34,Ogio Race Golf Shoes,169.99,Golf Bags & Carts,101.99,20,135.99
+744,34,Ogio Race Golf Shoes,169.99,Golf Bags & Carts,101.99,20,135.99
+745,34,Ogio City Spiked Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+746,34,Ogio City Spiked Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+747,34,Ogio City Spiked Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+748,34,Ogio City Turf Golf Shoes,129.99,Golf Bags & Carts,77.99,20,103.99
+749,34,Ogio City Turf Golf Shoes,129.99,Golf Bags & Carts,77.99,20,103.99
+750,34,Ogio City Turf Golf Shoes,129.99,Golf Bags & Carts,77.99,20,103.99
+751,34,Ogio Sport Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+752,34,Ogio Sport Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+753,34,Ogio Sport Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+754,34,TRUE linkswear Lyt Dry Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+755,34,TRUE linkswear Lyt Dry Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+756,34,TRUE linkswear Lyt Dry Golf Shoes,149.99,Golf Bags & Carts,89.99,20,119.99
+757,34,TRUE linkswear Vegas Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+758,34,TRUE linkswear Vegas Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+759,34,Nike Lunarwaverly Golf Shoes,139.99,Golf Bags & Carts,83.99,20,111.99
+760,34,Nike Lunarwaverly Golf Shoes,139.99,Golf Bags & Carts,83.99,20,111.99
+761,34,Nike Lunarwaverly Golf Shoes,139.99,Golf Bags & Carts,83.99,20,111.99
+762,34,Nike Lunarwaverly Golf Shoes,139.99,Golf Bags & Carts,83.99,20,111.99
+763,34,PING Golf Shoe Bag,34.99,Golf Bags & Carts,20.99,10,31.49
+764,34,Nike Lunar Mount Royal Golf Shoes,99.99,Golf Bags & Carts,59.99,15,84.99
+765,35,Club Glove Burst Proof with Wheels II Travel ,219.99,Golf Gloves,131.99,20,175.99
+766,35,Club Glove Last Bag,299.99,Golf Gloves,179.99,20,239.99
+767,35,Callaway 2014 Limited-Edition Hyper-Lite 5 St,199.99,Golf Gloves,119.99,20,159.99
+768,35,Titleist Club Glove Travel Cover,299.99,Golf Gloves,179.99,20,239.99
+769,35,Clicgear Rovic Wheel Cover,14.99,Golf Gloves,8.99,5,14.24
+770,35,Clicgear Rovic Cart Seat,49.99,Golf Gloves,29.99,10,44.99
+771,35,Clicgear Rovic Cooler Bag,39.99,Golf Gloves,23.99,10,35.99
+772,35,Clicgear Rovic Shoe Brush,9.99,Golf Gloves,5.99,5,9.49
+773,35,Titleist Small Wheeled Travel Cover,249.99,Golf Gloves,149.99,20,199.99
+774,35,Clicgear 8.0 Pack Sack,27.99,Golf Gloves,16.79,10,25.19
+775,35,Clicgear 8.0 Shoe Brush,9.99,Golf Gloves,5.99,5,9.49
+776,35,Bag Boy C3 Push Cart,199.99,Golf Gloves,119.99,20,159.99
+777,35,Bag Boy M330 Push Cart,79.99,Golf Gloves,47.99,15,67.99
+778,35,Bag Boy Beverage Holder,24.99,Golf Gloves,14.99,10,22.49
+779,35,Bag Boy Cart Seat,49.99,Golf Gloves,29.99,10,44.99
+780,35,Bag Boy Express DLX Pro Push Cart,159.99,Golf Gloves,95.99,20,127.99
+781,35,TaylorMade Performance Travel Cover,199.99,Golf Gloves,119.99,20,159.99
+782,35,Maxfli Tour Travel Cover,149.99,Golf Gloves,89.99,20,119.99
+783,35,Titleist 2014 Lightweight Stand Bag,199.99,Golf Gloves,119.99,20,159.99
+784,35,Bag Boy Hybrid Pivot Grip Travel Cover,199.99,Golf Gloves,119.99,20,159.99
+785,35,PING 2014 Hoofer 14 Stand Bag,219.99,Golf Gloves,131.99,20,175.99
+786,35,TaylorMade 2014 Purelite Stand Bag,179.99,Golf Gloves,107.99,20,143.99
+787,35,Nike 2014 Air Sport Stand Bag,149.99,Golf Gloves,89.99,20,119.99
+788,35,Titleist 2014 14-Way Stand Bag,209.99,Golf Gloves,125.99,20,167.99
+789,36,TaylorMade Men's Burner LTD Golf Glove,12.99,Golf Balls,7.79,5,12.34
+790,36,FootJoy Men's StaCool Golf Glove,13.99,Golf Balls,8.39,5,13.29
+791,36,Hirzl Women's Trust Feel Golf Glove,24.99,Golf Balls,14.99,10,22.49
+792,36,Hirzl Men's Hybrid Golf Glove,14.99,Golf Balls,8.99,5,14.24
+793,36,Hirzl Women's Hybrid Golf Glove,14.99,Golf Balls,8.99,5,14.24
+794,36,Hirzl Women's Trust Control Golf Glove,24.99,Golf Balls,14.99,10,22.49
+795,36,Hirzl Men's Soffft Flex Golf Glove,17.99,Golf Balls,10.79,5,17.09
+796,36,Callaway Women's X-Tech Golf Glove - White/Pi,12.99,Golf Balls,7.79,5,12.34
+797,36,Hirzl Women's Soffft Flex Golf Glove,17.99,Golf Balls,10.79,5,17.09
+798,36,Glove It Women's Urban Brick Golf Glove,19.99,Golf Balls,11.99,5,18.99
+799,36,Glove It Women's Versailles Golf Glove,19.99,Golf Balls,11.99,5,18.99
+800,36,Glove It Women's Navy Clear Dot Golf Glove,19.99,Golf Balls,11.99,5,18.99
+801,36,Glove It Women's Pink Clear Dot Golf Glove,19.99,Golf Balls,11.99,5,18.99
+802,36,Glove It Women's Olive Bling Golf Glove,19.99,Golf Balls,11.99,5,18.99
+803,36,Glove It Women's Silver Bling Golf Glove,19.99,Golf Balls,11.99,5,18.99
+804,36,Glove It Women's Imperial Golf Glove,19.99,Golf Balls,11.99,5,18.99
+805,36,Glove It Women's Red Clear Dot Golf Glove,19.99,Golf Balls,11.99,5,18.99
+806,36,Glove It Women's Violet Bling Golf Glove,24.99,Golf Balls,14.99,10,22.49
+807,36,Glove It Women's Hot Pink Bling Golf Glove,19.99,Golf Balls,11.99,5,18.99
+808,36,Glove It Women's Calypso Golf Glove,19.99,Golf Balls,11.99,5,18.99
+809,36,Glove It Women's 19th Hole Golf Glove,19.99,Golf Balls,11.99,5,18.99
+810,36,Glove It Women's Mod Oval Golf Glove,19.99,Golf Balls,11.99,5,18.99
+811,36,Glove It Women's Silver Willow Golf Glove,19.99,Golf Balls,11.99,5,18.99
+812,36,Glove It Women's Trellis Golf Glove,19.99,Golf Balls,11.99,5,18.99
+813,37,Callaway HX Practice Golf Balls - 18 Pack,19.99,Electronics,11.99,5,18.99
+814,37,Callaway HX Practice Golf Balls - 9 Pack,12.99,Electronics,7.79,5,12.34
+815,37,Zero Friction Practice Golf Balls - 12 Pack,4.99,Electronics,2.99,5,4.74
+816,37,Titleist Pro V1 Golf Balls,47.99,Electronics,28.79,10,43.19
+817,37,Titleist Pro V1 Personalized Golf Balls,51.99,Electronics,31.19,15,44.19
+818,37,Titleist Pro V1x Golf Balls,47.99,Electronics,28.79,10,43.19
+819,37,Titleist Pro V1x Personalized Golf Balls,51.99,Electronics,31.19,15,44.19
+820,37,Titleist Pro V1 High Numbers Golf Balls,47.99,Electronics,28.79,10,43.19
+821,37,Titleist Pro V1 High Numbers Personalized Gol,51.99,Electronics,31.19,15,44.19
+822,37,Titleist Pro V1x High Numbers Golf Balls,47.99,Electronics,28.79,10,43.19
+823,37,Titleist Pro V1x High Numbers Personalized Go,51.99,Electronics,31.19,15,44.19
+824,37,Titleist Pro V1 Double Number Golf Balls,51.99,Electronics,31.19,15,44.19
+825,37,Bridgestone e6 Straight Distance NFL Tennesse,31.99,Electronics,19.19,10,28.79
+826,37,Bridgestone e6 Straight Distance NFL Tampa Ba,31.99,Electronics,19.19,10,28.79
+827,37,Bridgestone e6 Straight Distance NFL Seattle ,31.99,Electronics,19.19,10,28.79
+828,37,Bridgestone e6 Straight Distance NFL San Dieg,31.99,Electronics,19.19,10,28.79
+829,37,Bridgestone e6 Straight Distance NFL San Fran,31.99,Electronics,19.19,10,28.79
+830,37,Bridgestone e6 Straight Distance NFL Miami Do,31.99,Electronics,19.19,10,28.79
+831,37,Bridgestone e6 Straight Distance NFL Jacksonv,31.99,Electronics,19.19,10,28.79
+832,37,Bridgestone e6 Straight Distance NFL Indianap,31.99,Electronics,19.19,10,28.79
+833,37,Bridgestone e6 Straight Distance NFL Houston ,31.99,Electronics,19.19,10,28.79
+834,37,Bridgestone e6 Straight Distance NFL Detroit ,31.99,Electronics,19.19,10,28.79
+835,37,Bridgestone e6 Straight Distance NFL Carolina,31.99,Electronics,19.19,10,28.79
+836,37,Bridgestone e6 Straight Distance NFL Baltimor,31.99,Electronics,19.19,10,28.79
+837,38,Voice Caddie SC100 Portable Golf Launch Monit,269.99,Kids' Golf Clubs,161.99,20,215.99
+838,38,Voice Caddie SC100 Portable Golf Launch Monit,269.99,Kids' Golf Clubs,161.99,20,215.99
+839,38,GolfBuddy VS4 Golf GPS,149.99,Kids' Golf Clubs,89.99,20,119.99
+840,38,Zepp Golf Swing Analyzer,149.99,Kids' Golf Clubs,89.99,20,119.99
+841,38,SkyCaddie LINX Golf GPS Watch,249.99,Kids' Golf Clubs,149.99,20,199.99
+842,38,Bushnell 2014 Tour V3 Patriot Pack Laser Rang,299.99,Kids' Golf Clubs,179.99,20,239.99
+843,38,Bushnell 2014 Tour V3 Slope Patriot Pack Lase,399.99,Kids' Golf Clubs,239.99,20,319.99
+844,38,SkyCaddie LINX Golf GPS Watch,249.99,Kids' Golf Clubs,149.99,20,199.99
+845,38,Garmin Approach S4 Golf GPS Watch,299.99,Kids' Golf Clubs,179.99,20,239.99
+846,38,geckobrands iPhone Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+847,38,geckobrands Galaxy Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+848,38,geckobrands Galaxy Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+849,38,geckobrands Galaxy Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+850,38,geckobrands Galaxy Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+851,38,geckobrands iPhone Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+852,38,geckobrands iPhone Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+853,38,geckobrands iPhone Waterproof Dry Bag,19.99,Kids' Golf Clubs,11.99,5,18.99
+854,38,Maxfli Digital Golf Scope,39.99,Kids' Golf Clubs,23.99,10,35.99
+855,38,Nikon COOLSHOT AS Slope Laser Rangefinder,349.99,Kids' Golf Clubs,209.99,20,279.99
+856,38,Nikon COOLSHOT Laser Rangefinder,279.99,Kids' Golf Clubs,167.99,20,223.99
+857,38,GolfBuddy PT4 Touchscreen GPS,399.99,Kids' Golf Clubs,239.99,20,319.99
+858,38,GolfBuddy VT3 GPS Watch,199.99,Kids' Golf Clubs,119.99,20,159.99
+859,38,Garmin Approach G8 Golf GPS,399.99,Kids' Golf Clubs,239.99,20,319.99
+860,38,Bushnell Pro X7 Jolt Slope Rangefinder,599.99,Kids' Golf Clubs,359.99,20,479.99
+861,39,Cobra Junior Kids' Complete Set (Height 53'' ,199.99,Team Shop,119.99,20,159.99
+862,39,Cobra Junior Kids' Complete Set (Height 46'' ,179.99,Team Shop,107.99,20,143.99
+863,39,Top Flite Kids' 2014 XLj Complete Set (Height,129.99,Team Shop,77.99,20,103.99
+864,39,Top Flite Kids' 2014 XLj Complete Set (Height,129.99,Team Shop,77.99,20,103.99
+865,39,Top Flite Kids' 2014 XLj Complete Set (Height,109.99,Team Shop,65.99,20,87.99
+866,39,Top Flite Kids' 2014 XLj Complete Set (Height,109.99,Team Shop,65.99,20,87.99
+867,39,Top Flite Kids' 2014 XLj Complete Set (Height,109.99,Team Shop,65.99,20,87.99
+868,39,Top Flite Kids' XLj Driver (Height 53'' and a,34.99,Team Shop,20.99,10,31.49
+869,39,Top Flite Kids' XLj 7 Iron (Height 53'' and a,19.99,Team Shop,11.99,5,18.99
+870,39,Top Flite Kids' XLj Sand Wedge (Height 53'' a,19.99,Team Shop,11.99,5,18.99
+871,39,Top Flite Kids' XLj Putter (Height 53'' and a,19.99,Team Shop,11.99,5,18.99
+872,39,Top Flite Kids' XLj Driver (Height 46''-52''),34.99,Team Shop,20.99,10,31.49
+873,39,Top Flite Kids' XLj 7 Iron (Height 46'' - 52',19.99,Team Shop,11.99,5,18.99
+874,39,Top Flite Kids' XLj Sand Wedge (Height 46'' t,19.99,Team Shop,11.99,5,18.99
+875,39,Top Flite Kids' XLj Putter (Height 46'' - 52',19.99,Team Shop,11.99,5,18.99
+876,39,Top Flite Kids' XLj Driver (Height 45'' and u,34.99,Team Shop,20.99,10,31.49
+877,39,Top Flite Kids' XLj 7 Iron (Height 45'' and u,19.99,Team Shop,11.99,5,18.99
+878,39,Top Flite Kids' XLj Sand Wedge (Height 45'' a,19.99,Team Shop,11.99,5,18.99
+879,39,Top Flite Kids' XLj Putter (Height 45'' and u,19.99,Team Shop,11.99,5,18.99
+880,39,PING Kids' My First Putter,139.99,Team Shop,83.99,20,111.99
+881,39,Tour Edge Kids' HT Max-J Complete Set (Height,109.99,Team Shop,65.99,20,87.99
+882,39,Tour Edge Kids' HT Max-J Complete Set (Height,109.99,Team Shop,65.99,20,87.99
+883,39,Tour Edge Girls' HT Max-J Complete Set (Heigh,109.99,Team Shop,65.99,20,87.99
+884,39,Tour Edge Girls' HT Max-J Complete Set (Heigh,109.99,Team Shop,65.99,20,87.99
+885,40,Team Golf St. Louis Cardinals Putter Grip,24.99,Accessories,14.99,10,22.49
+886,40,Team Golf San Francisco Giants Putter Grip,24.99,Accessories,14.99,10,22.49
+887,40,Team Golf New York Yankees Putter Grip,24.99,Accessories,14.99,10,22.49
+888,40,Team Golf Detroit Tigers Putter Grip,24.99,Accessories,14.99,10,22.49
+889,40,Team Golf Chicago Cubs Putter Grip,24.99,Accessories,14.99,10,22.49
+890,40,Team Golf Boston Red Sox Putter Grip,24.99,Accessories,14.99,10,22.49
+891,40,Team Golf Washington Redskins Putter Grip,24.99,Accessories,14.99,10,22.49
+892,40,Team Golf San Francisco 49ers Putter Grip,24.99,Accessories,14.99,10,22.49
+893,40,Team Golf Pittsburgh Steelers Putter Grip,24.99,Accessories,14.99,10,22.49
+894,40,Team Golf Dallas Cowboys Putter Grip,24.99,Accessories,14.99,10,22.49
+895,40,Team Golf Oakland Raiders Putter Grip,24.99,Accessories,14.99,10,22.49
+896,40,Team Golf New York Giants Putter Grip,24.99,Accessories,14.99,10,22.49
+897,40,Team Golf New England Patriots Putter Grip,24.99,Accessories,14.99,10,22.49
+898,40,Team Golf Minnesota Vikings Putter Grip,24.99,Accessories,14.99,10,22.49
+899,40,Team Golf Green Bay Packers Putter Grip,24.99,Accessories,14.99,10,22.49
+900,40,Team Golf Chicago Bears Putter Grip,24.99,Accessories,14.99,10,22.49
+901,40,Team Golf Baltimore Ravens Putter Grip,24.99,Accessories,14.99,10,22.49
+902,40,Team Golf West Virginia Mountaineers Putter G,24.99,Accessories,14.99,10,22.49
+903,40,Team Golf Missouri Tigers Putter Grip,24.99,Accessories,14.99,10,22.49
+904,40,Team Golf Wisconsin Badgers Putter Grip,24.99,Accessories,14.99,10,22.49
+905,40,Team Golf Texas Longhorns Putter Grip,24.99,Accessories,14.99,10,22.49
+906,40,Team Golf Tennessee Volunteers Putter Grip,24.99,Accessories,14.99,10,22.49
+907,40,Team Golf South Carolina Gamecocks Putter Gri,24.99,Accessories,14.99,10,22.49
+908,40,Team Golf Penn State Nittany Lions Putter Gri,24.99,Accessories,14.99,10,22.49
+909,41,PING Golf Shoe Bag,34.99,Trade-In,20.99,10,31.49
+910,41,LIJA Women's Golf Beanie,10.8,Trade-In,6.48,5,10.26
+911,41,LIJA Women's Golf Hat,27,Trade-In,16.2,10,24.3
+912,41,LIJA Women's Golf Visor,22.5,Trade-In,13.5,10,20.25
+913,41,Golf Pride Decade MultiCompound Platinum Stan,9.59,Trade-In,5.75,5,9.11
+914,41,Golf Pride Decade MultiCompound Platinum Stan,9.59,Trade-In,5.75,5,9.11
+915,41,Golf Pride Decade MultiCompound Platinum Stan,9.59,Trade-In,5.75,5,9.11
+916,41,Glove It Women's Urban Brick 3-Zip Carry All ,21.99,Trade-In,13.19,10,19.79
+917,41,Glove It Women's Mod Oval 3-Zip Carry All Gol,21.99,Trade-In,13.19,10,19.79
+918,41,Glove It Women's Calypso 3-Zip Carry All Golf,21.99,Trade-In,13.19,10,19.79
+919,41,Glove It Women's Imperial 3-Zip Carry All Gol,21.99,Trade-In,13.19,10,19.79
+920,41,Glove It Women's Silver Willow 3-Zip Carry Al,21.99,Trade-In,13.19,10,19.79
+921,41,Glove It Women's Santa Cruz 3-Zip Carry All G,21.99,Trade-In,13.19,10,19.79
+922,41,Glove It Women's Trellis 3-Zip Carry All Golf,21.99,Trade-In,13.19,10,19.79
+923,41,Glove It Women's Leopard 3-Zip Carry All Golf,21.99,Trade-In,13.19,10,19.79
+924,41,Glove It Urban Brick Golf Towel,15.99,Trade-In,9.59,5,15.19
+925,41,Glove It Mod Oval Golf Towel,15.99,Trade-In,9.59,5,15.19
+926,41,Glove It Imperial Golf Towel,15.99,Trade-In,9.59,5,15.19
+927,41,Glove It Silver Willow Golf Towel,15.99,Trade-In,9.59,5,15.19
+928,41,Glove It Santa Cruz Golf Towel,15.99,Trade-In,9.59,5,15.19
+929,41,Glove It Trellis Golf Towel,15.99,Trade-In,9.59,5,15.19
+930,41,Glove It Nine and Wine Golf Towel,15.99,Trade-In,9.59,5,15.19
+931,41,Glove It Women's Perforated 3-Zip Carry All G,29.99,Trade-In,17.99,10,26.99
+932,41,Glove It Women's Pink Snake 3-Zip Carry All G,29.99,Trade-In,17.99,10,26.99
+933,42,Nike VR_S Covert Driver,179.99,Bike & Skate Shop,107.99,20,143.99
+935,42,TaylorMade RocketBallz Stage 2 Driver,169.99,Bike & Skate Shop,101.99,20,135.99
+936,42,Cleveland Golf Classic XL Driver,119.99,Bike & Skate Shop,71.99,20,95.99
+937,42,Cobra AMP Cell Driver - Orange,169.99,Bike & Skate Shop,101.99,20,135.99
+938,43,Diamondback Adult Sorrento Mountain Bike 2014,299.98,Camping & Hiking,179.99,20,239.98
+939,43,Nike+ Fuelband SE,99,Camping & Hiking,59.4,15,84.15
+940,43,Diamondback Boys' Insight 24 Performance Hybr,299.99,Camping & Hiking,179.99,20,239.99
+941,43,Diamondback Girls' Clarity 24 Hybrid Bike 201,299.99,Camping & Hiking,179.99,20,239.99
+942,43,Diamondback Adult Outlook Mountain Bike 2014,309.99,Camping & Hiking,185.99,20,247.99
+943,43,Diamondback Adult Response XE Mountain Bike 2,349.98,Camping & Hiking,209.99,20,279.98
+944,43,GoPro HERO3+ Black Edition Camera,399.99,Camping & Hiking,239.99,20,319.99
+945,43,Rollerblade Men's Spark 84 Inline Skate,159.99,Camping & Hiking,95.99,20,127.99
+946,43,Diamondback Adult Wildwood Citi Classic Comfo,269.99,Camping & Hiking,161.99,20,215.99
+947,43,Diamondback Adult Edgewood Hybrid Bike 2014,299.98,Camping & Hiking,179.99,20,239.98
+948,43,Rollerblade Women's Spark 84 Inline Skates,159.99,Camping & Hiking,95.99,20,127.99
+949,43,Thule Trailway 4-Bike Hitch Vehicle Rack,199.98,Camping & Hiking,119.99,20,159.98
+950,43,Diamondback Grind BMX Bike 2014,199.99,Camping & Hiking,119.99,20,159.99
+951,43,Diamondback Women's Vital 2 Hybrid Bike 2014,299.98,Camping & Hiking,179.99,20,239.98
+952,43,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,189,Camping & Hiking,113.4,20,151.2
+953,43,Diamondback Adult Trace Hybrid Bike 2014,449.99,Camping & Hiking,269.99,20,359.99
+954,43,Nishiki Women's Tamarack Comfort Bike 2014,299.99,Camping & Hiking,179.99,20,239.99
+955,43,Diamondback Women's Clarity Hybrid Bike 2013,399.99,Camping & Hiking,239.99,20,319.99
+956,43,Diamondback Adult Wildwood Classic Comfort Bi,299.98,Camping & Hiking,179.99,20,239.98
+957,43,Diamondback Women's Serene Classic Comfort Bi,299.98,Camping & Hiking,179.99,20,239.98
+958,43,Nishiki Adult Montour Hybrid Bike 2014,299.99,Camping & Hiking,179.99,20,239.99
+959,43,Diamondback Adult Insight Hybrid Bike 2013,399.99,Camping & Hiking,239.99,20,319.99
+960,43,Saris Bones 2-Bike Rack,125.99,Camping & Hiking,75.59,20,100.79
+961,43,Diamondback Women's Clarity 1 Hybrid Bike 201,399.99,Camping & Hiking,239.99,20,319.99
+962,44,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,Hunting & Shooting,35.99,15,50.98
+963,44,MAC Sports Collapsible Wagon,69.99,Hunting & Shooting,41.99,15,59.49
+964,44,Coleman River Gorge 6 Person Dome Tent,79.98,Hunting & Shooting,47.99,15,67.98
+965,44,ENO DoubleNest Two Person Hammock,69.99,Hunting & Shooting,41.99,15,59.49
+966,44,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,Hunting & Shooting,119.99,20,159.99
+967,44,Kijaro Dual Lock Chair,29.99,Hunting & Shooting,17.99,10,26.99
+968,44,Quest 12' x 12' Dome Canopy,149.99,Hunting & Shooting,89.99,20,119.99
+969,44,Coleman River Gorge 8 Person Tent,139.98,Hunting & Shooting,83.99,20,111.98
+970,44,Quest Q100 10' X 10' Dome Canopy,99.98,Hunting & Shooting,59.99,15,84.98
+971,44,SKLZ Sport-Brella XL,69.99,Hunting & Shooting,41.99,15,59.49
+972,44,E-Z Up Vista 12' x 12' Recreational Instant S,134.99,Hunting & Shooting,80.99,20,107.99
+973,44,Kijaro XXL Dual Lock Oversized Chair,39.99,Hunting & Shooting,23.99,10,35.99
+974,44,The North Face Women's Stinson Rain Jacket,90,Hunting & Shooting,54,15,76.5
+975,44,Eureka! Tetragon 5 Five Person Tent,129.99,Hunting & Shooting,77.99,20,103.99
+976,44,Columbia Women's Sandy River Shorts,21.99,Hunting & Shooting,13.19,10,19.79
+977,44,ENO Atlas Hammock Straps,29.99,Hunting & Shooting,17.99,10,26.99
+978,44,YETI Tundra 65 Chest Cooler,399.99,Hunting & Shooting,239.99,20,319.99
+979,44,Quest 12' x 12' Screen House,69.99,Hunting & Shooting,41.99,15,59.49
+980,44,Quest Oversized Arm Chair,21.99,Hunting & Shooting,13.19,10,19.79
+981,44,The North Face Women's Recon Backpack,99,Hunting & Shooting,59.4,15,84.15
+982,44,insta-bed Neverflat Air Mattress,149.99,Hunting & Shooting,89.99,20,119.99
+983,44,YETI Roadie 20 Chest Cooler,249.99,Hunting & Shooting,149.99,20,199.99
+984,44,Quest Eagle Peak 6 Person Tent,79.99,Hunting & Shooting,47.99,15,67.99
+985,44,Coleman RoadTrip LXE Grill,189.99,Hunting & Shooting,113.99,20,151.99
+986,45,Under Armour Men's Highlight MC Football Clea,129.99,Fishing,77.99,20,103.99
+987,45,GoPro HERO3+ Black Edition Camera,399.99,Fishing,239.99,20,319.99
+988,45,Under Armour Men's Ignite Camo II Slide,34.99,Fishing,20.99,10,31.49
+989,45,Under Armour Men's Highlight MC Football Clea,129.99,Fishing,77.99,20,103.99
+990,45,Under Armour WWP Freedom Flag T-Shirt,27.99,Fishing,16.79,10,25.19
+991,45,Bushnell 2014 Tour V3 Patriot Pack Laser Rang,299.99,Fishing,179.99,20,239.99
+992,45,Under Armour Men's Highlight MC Football Clea,129.99,Fishing,77.99,20,103.99
+993,45,Under Armour Men's Highlight MC Football Clea,129.99,Fishing,77.99,20,103.99
+994,45,Primos Truth Cam Supercharged Blackout 7 MP G,99.99,Fishing,59.99,15,84.99
+995,45,Bushnell 2014 Tour V3 Slope Patriot Pack Lase,399.99,Fishing,239.99,20,319.99
+996,45,Bushnell Golf Tour v3 Patriot Pack Laser Rang,299.99,Fishing,179.99,20,239.99
+997,45,Under Armour Men's Highlight MC Football Clea,129.99,Fishing,77.99,20,103.99
+998,45,Bushnell NEO-X Golf GPS Watch,179.99,Fishing,107.99,20,143.99
+999,45,"Timberland PRO Men's Pit Boss 6"" Steel Toe Wo",99.99,Fishing,59.99,15,84.99
+1000,45,Nikon Monarch 5 10x42 Binoculars,329.99,Fishing,197.99,20,263.99
+1001,45,GoPro HERO3+ Silver Edition Camera,299.99,Fishing,179.99,20,239.99
+1002,45,Under Armour Women's Ignite VI Camo Slide,34.99,Fishing,20.99,10,31.49
+1003,45,Nike Men's Free TR 5.0 (LSA Pack) Training Sh,109.99,Fishing,65.99,20,87.99
+1004,45,Field & Stream Sportsman 16 Gun Fire Safe,399.98,Fishing,239.99,20,319.98
+1005,45,Diamond Infinite Edge RTH Compound Bow Packag,349.99,Fishing,209.99,20,279.99
+1006,45,O'Brien Neoprene Pet Life Vest,39.99,Fishing,23.99,10,35.99
+1007,45,Realtree Outfitters Men's Cobra Realtree Xtra,49.99,Fishing,29.99,10,44.99
+1008,45,Cuddeback Ambush IR Scouting Camera,119.99,Fishing,71.99,20,95.99
+1009,45,Diamond Fear No Evil Compound Bow Package,599.99,Fishing,359.99,20,479.99
+1010,46,DBX Vector Series Men's Nylon Life Vest,19.98,Indoor/Outdoor Games,11.99,5,18.98
+1011,46,Old Town Canoe Saranac 146 Canoe,499.99,Indoor/Outdoor Games,299.99,20,399.99
+1012,46,Pelican Trailblazer 100 Angler Fishing Kayak,299.99,Indoor/Outdoor Games,179.99,20,239.99
+1013,46,Perception Sport Swifty Deluxe 9.5 Kayak,349.99,Indoor/Outdoor Games,209.99,20,279.99
+1014,46,O'Brien Men's Neoprene Life Vest,49.98,Indoor/Outdoor Games,29.99,10,44.98
+1015,46,GoPro HERO3+ Black Edition Camera,399.99,Indoor/Outdoor Games,239.99,20,319.99
+1016,46,Field & Stream 12' Eagle Run Kayak,549.99,Indoor/Outdoor Games,329.99,20,439.99
+1017,46,DBX Vector Series Women's Nylon Life Vest,19.98,Indoor/Outdoor Games,11.99,5,18.98
+1018,46,Coleman Scanoe Canoe,399.99,Indoor/Outdoor Games,239.99,20,319.99
+1019,46,O'Brien Youth Neoprene Life Vest,44.98,Indoor/Outdoor Games,26.99,10,40.48
+1020,46,Field & Stream Eagle Talon Kayak,549.99,Indoor/Outdoor Games,329.99,20,439.99
+1021,46,Old Town Trip 10 Angler Deluxe Kayak,499.99,Indoor/Outdoor Games,299.99,20,399.99
+1022,46,O'Brien Women's Neoprene Life Vest,49.98,Indoor/Outdoor Games,29.99,10,44.98
+1023,46,Quest Pioneer Adjustable Aluminum Kayak Paddl,29.99,Indoor/Outdoor Games,17.99,10,26.99
+1024,46,Columbia Women's Sandy River Shorts,21.99,Indoor/Outdoor Games,13.19,10,19.79
+1025,46,Future Beach Trophy 126 Kayak,369.99,Indoor/Outdoor Games,221.99,20,295.99
+1026,46,Quantum Smoke PT Spinning Reels,119.99,Indoor/Outdoor Games,71.99,20,95.99
+1027,46,DBX Vector Series Youth Nylon Life Vest,34.99,Indoor/Outdoor Games,20.99,10,31.49
+1028,46,YETI Tundra 65 Chest Cooler,399.99,Indoor/Outdoor Games,239.99,20,319.99
+1029,46,DBX 4 Buckle Nylon Life Vest,39.99,Indoor/Outdoor Games,23.99,10,35.99
+1030,46,Perception Sport Striker 11.5 Angler Kayak,499.99,Indoor/Outdoor Games,299.99,20,399.99
+1031,46,YETI Roadie 20 Chest Cooler,249.99,Indoor/Outdoor Games,149.99,20,199.99
+1032,46,Sun Dolphin Sun Slider 5-Seated Pedal Boat wi,499.99,Indoor/Outdoor Games,299.99,20,399.99
+1033,46,YETI Tundra 45 Chest Cooler,349.99,Indoor/Outdoor Games,209.99,20,279.99
+1034,47,Nike+ Fuelband SE,99,Boating,59.4,15,84.15
+1035,47,"Goaliath 54"" In-Ground Basketball Hoop with P",499.99,Boating,299.99,20,399.99
+1036,47,Fitbit Flex Wireless Activity & Sleep Wristba,99.95,Boating,59.97,15,84.96
+1037,47,"Nike Women's Pro Core 3"" Compression Shorts",28,Boating,16.8,10,25.2
+1038,47,Kan Jam Disc Game,39.99,Boating,23.99,10,35.99
+1039,47,Nike Women's Pro Victory Compression Bra,21.99,Boating,13.19,10,19.79
+1040,47,Stiga Master Series ST3100 Competition Indoor,329.99,Boating,197.99,20,263.99
+1041,47,Nike Women's Pro Hyperwarm Fitted Tights,24.97,Boating,14.98,10,22.47
+1042,47,Under Armour Hustle Backpack,54.99,Boating,32.99,15,46.74
+1043,47,Nike Women's Legend V-Neck T-Shirt,25,Boating,15,10,22.5
+1044,47,Nike Hoops Elite Team Backpack,70,Boating,42,15,59.5
+1045,47,Teeter Hang Ups NXT-S Inversion Table,299.99,Boating,179.99,20,239.99
+1046,47,Quest 15 FT Trampoline Enclosure Combo,499.99,Boating,299.99,20,399.99
+1047,47,Under Armour Men's Ignite Camo II Slide,34.99,Boating,20.99,10,31.49
+1048,47,"Spalding Beast 60"" Glass Portable Basketball ",1099.99,Boating,659.99,20,879.99
+1049,47,Under Armour Boys' Match Play Golf Polo,29.99,Boating,17.99,10,26.99
+1050,47,McDavid HEX Extended Leg Sleeves,29.99,Boating,17.99,10,26.99
+1051,47,Garmin Forerunner 220 GPS Watch,249.99,Boating,149.99,20,199.99
+1052,47,"Lifetime Elite 52"" Portable Basketball Hoop",399.99,Boating,239.99,20,319.99
+1053,47,Garmin Women's Forerunner 10 GPS Watch,129.99,Boating,77.99,20,103.99
+1054,47,"Spalding NBA 54"" Glass Portable Basketball Ho",699.99,Boating,419.99,20,559.99
+1055,47,Nike Women's Pro Hyperwarm Half Zip Long Slee,31.97,Boating,19.18,10,28.77
+1056,47,Garmin vivofit Fitness Band with HRM,169.99,Boating,101.99,20,135.99
+1057,47,Nike Men's Fly Shorts 2.0,34,Boating,20.4,10,30.6
+1058,48,Lifetime Freestyle XL Stand-Up Paddle Board,399.99,Water Sports,239.99,20,319.99
+1059,48,Pelican Maverick 100X Kayak,349.99,Water Sports,209.99,20,279.99
+1060,48,DBX Vector Series Men's Nylon Life Vest,19.98,Water Sports,11.99,5,18.98
+1061,48,Old Town Canoe Saranac 146 Canoe,499.99,Water Sports,299.99,20,399.99
+1062,48,Pelican Vortex 80DLX Kayak,199.99,Water Sports,119.99,20,159.99
+1063,48,Pelican Trailblazer 100 Angler Fishing Kayak,299.99,Water Sports,179.99,20,239.99
+1064,48,Pelican Trailblazer 100 Kayak,229.99,Water Sports,137.99,20,183.99
+1065,48,Perception Sport Swifty Deluxe 9.5 Kayak,349.99,Water Sports,209.99,20,279.99
+1066,48,O'Brien Men's Neoprene Life Vest,49.98,Water Sports,29.99,10,44.98
+1067,48,Field & Stream 12' Eagle Run Kayak,549.99,Water Sports,329.99,20,439.99
+1068,48,DBX Vector Series Women's Nylon Life Vest,19.98,Water Sports,11.99,5,18.98
+1069,48,"Tiga 11'4"" Stand-Up Paddle Board",799.99,Water Sports,479.99,20,639.99
+1070,48,Coleman Scanoe Canoe,399.99,Water Sports,239.99,20,319.99
+1071,48,Pelican Apex 100 Kayak,229.99,Water Sports,137.99,20,183.99
+1072,48,O'Brien Youth Neoprene Life Vest,44.98,Water Sports,26.99,10,40.48
+1073,48,Pelican Sunstream 100 Kayak,199.99,Water Sports,119.99,20,159.99
+1074,48,Field & Stream Eagle Talon Kayak,549.99,Water Sports,329.99,20,439.99
+1075,48,Old Town Trip 10 Angler Deluxe Kayak,499.99,Water Sports,299.99,20,399.99
+1076,48,Future Beach Spirit 120 Kayak,269.99,Water Sports,161.99,20,215.99
+1077,48,O'Brien Women's Neoprene Life Vest,49.98,Water Sports,29.99,10,44.98
+1078,48,Quest Pioneer Adjustable Aluminum Kayak Paddl,29.99,Water Sports,17.99,10,26.99
+1079,48,Future Beach Trophy 126 Kayak,369.99,Water Sports,221.99,20,295.99
+1080,48,DBX Vector Series Youth Nylon Life Vest,34.99,Water Sports,20.99,10,31.49
+1081,48,Snap OnTop Solo Kayak,399.99,Water Sports,239.99,20,319.99
+1082,49,Quest Q64 10 FT. x 10 FT. Slant Leg Instant U,59.98,MLB,35.99,15,50.98
+1083,49,Brooks Women's Adrenaline GTS 13 Running Shoe,89.99,MLB,53.99,15,76.49
+1084,49,Lifetime Freestyle XL Stand-Up Paddle Board,399.99,MLB,239.99,20,319.99
+1085,49,Pelican Maverick 100X Kayak,349.99,MLB,209.99,20,279.99
+1086,49,Nike Men's Free 5.0+ Running Shoe,99.99,MLB,59.99,15,84.99
+1087,49,DBX Vector Series Men's Nylon Life Vest,19.98,MLB,11.99,5,18.98
+1088,49,Pelican Trailblazer 100 Angler Fishing Kayak,299.99,MLB,179.99,20,239.99
+1089,49,Nike Women's Free 4.0 Running Shoe,89.99,MLB,53.99,15,76.49
+1090,49,Under Armour Women's Micro G Skulpt Running S,54.97,MLB,32.98,15,46.72
+1091,49,Pelican Trailblazer 100 Kayak,229.99,MLB,137.99,20,183.99
+1092,49,Nike Men's Free 5.0 Running Shoe,99.99,MLB,59.99,15,84.99
+1093,49,Perception Sport Swifty Deluxe 9.5 Kayak,349.99,MLB,209.99,20,279.99
+1094,49,Brooks Women's Ghost 6 Running Shoe,89.99,MLB,53.99,15,76.49
+1095,49,Quik Shade Summit SX170 10 FT. x 10 FT. Canop,199.99,MLB,119.99,20,159.99
+1096,49,Nike Women's Free 5.0+ Running Shoe,99.99,MLB,59.99,15,84.99
+1097,49,Brooks Men's Adrenaline GTS 13 Running Shoe,89.99,MLB,53.99,15,76.49
+1098,49,Brooks Women's Ghost 6 Running Shoe,89.99,MLB,53.99,15,76.49
+1099,49,Kijaro Dual Lock Chair,29.99,MLB,17.99,10,26.99
+1100,49,ASICS Women's GEL-Noosa Tri 9 Running Shoe,139.99,MLB,83.99,20,111.99
+1101,49,Nike Men's Air Max 2014 Running Shoe,149.99,MLB,89.99,20,119.99
+1102,49,O'Brien Men's Neoprene Life Vest,49.98,MLB,29.99,10,44.98
+1103,49,Quest 12' x 12' Dome Canopy,149.99,MLB,89.99,20,119.99
+1104,49,GoPro HERO3+ Black Edition Camera,399.99,MLB,239.99,20,319.99
+1105,49,ASICS Women's GEL-Nimbus 15 Running Shoe,119.99,MLB,71.99,20,95.99
+1106,50,Majestic Youth 2014 All-Star Game Andrew McCu,60,NFL,36,15,51
+1107,50,Majestic Youth 2014 All-Star Game Yadier Moli,60,NFL,36,15,51
+1108,50,Majestic Youth 2014 All-Star Game Troy Tulowi,60,NFL,36,15,51
+1109,50,Majestic Youth 2014 All-Star Game Yasiel Puig,60,NFL,36,15,51
+1110,50,Majestic Youth 2014 All-Star Game Freddie Fre,60,NFL,36,15,51
+1111,50,Majestic Youth 2014 All-Star Game Mike Trout ,60,NFL,36,15,51
+1112,50,Majestic Youth 2014 All-Star Game Miguel Cabr,60,NFL,36,15,51
+1113,50,Majestic Youth 2014 All-Star Game Masahiro Ta,60,NFL,36,15,51
+1114,50,Majestic Youth 2014 All-Star Game Derek Jeter,60,NFL,36,15,51
+1115,50,Majestic Youth 2014 All-Star Game Jose Abreu ,60,NFL,36,15,51
+1116,50,Majestic Men's 2014 All-Star Game Troy Tulowi,130,NFL,78,20,104
+1117,50,Majestic Men's 2014 All-Star Game Yasiel Puig,130,NFL,78,20,104
+1118,50,Majestic Men's 2014 All-Star Game Andrew McCu,130,NFL,78,20,104
+1119,50,Majestic Men's 2014 All-Star Game Yadier Moli,130,NFL,78,20,104
+1120,50,Majestic Men's 2014 All-Star Game Freddie Fre,130,NFL,78,20,104
+1121,50,Majestic Men's 2014 All-Star Game Mike Trout ,130,NFL,78,20,104
+1122,50,Majestic Men's 2014 All-Star Game Masahiro Ta,130,NFL,78,20,104
+1123,50,Majestic Men's 2014 All-Star Game Derek Jeter,130,NFL,78,20,104
+1124,50,Majestic Men's 2014 All-Star Game Miguel Cabr,130,NFL,78,20,104
+1125,50,Majestic Men's 2014 All-Star Game Jose Abreu ,130,NFL,78,20,104
+1126,50,Nike Men's New York Yankees Derek Jeter 2014 ,34,NFL,20.4,10,30.6
+1127,50,Nike Men's Pittsburgh Pirates Andrew McCutche,34,NFL,20.4,10,30.6
+1128,50,Nike Men's Los Angeles Angels Mike Trout 2014,34,NFL,20.4,10,30.6
+1129,50,Stitches Men's Pittsburgh Pirates Black Poly ,50,NFL,30,15,42.5
+1130,51,Nike Men's Cleveland Browns 'Money Manziel' T,30,NHL,18,10,27
+1131,51,Nike Men's Home Game Jersey Cleveland Browns ,100,NHL,60,20,80
+1132,51,Nike Men's Cleveland Browns Johnny Manziel 'M,30,NHL,18,10,27
+1133,51,Nike Johnny Football Camo Graphic T-Shirt,30,NHL,18,10,27
+1134,51,Nike Youth Home Game Jersey Cleveland Browns ,70,NHL,42,15,59.5
+1135,51,Nike Johnny Football Camo Jersey T-Shirt,30,NHL,18,10,27
+1136,51,Wild Sports Pittsburgh Steelers XL Tailgate B,219.99,NHL,131.99,20,175.99
+1137,51,Nike Men's Cleveland Browns Johnny Manziel #2,32,NHL,19.2,10,28.8
+1138,51,Wild Sports Green Bay Packers XL Tailgate Bea,219.99,NHL,131.99,20,175.99
+1139,51,Wild Sports Chicago Bears XL Tailgate Bean Ba,219.99,NHL,131.99,20,175.99
+1140,51,Wild Sports Minnesota Vikings XL Tailgate Bea,219.99,NHL,131.99,20,175.99
+1141,51,Nike Men's Cleveland Browns Johnny Football O,28,NHL,16.8,10,25.2
+1142,51,Nike Men's Home Game Jersey Denver Broncos Pe,100,NHL,60,20,80
+1143,51,Nike Men's Chicago Bears Navy Reversible Defe,79.97,NHL,47.98,15,67.97
+1144,51,Wilson NFL Autograph Official Football,44.99,NHL,26.99,10,40.49
+1145,51,Nike Men's Home Game Jersey Buffalo Bills Sam,100,NHL,60,20,80
+1146,51,Nike Men's Home Game Jersey Philadelphia Eagl,100,NHL,60,20,80
+1147,51,Nike Men's Home Game Jersey San Francisco 49e,100,NHL,60,20,80
+1148,51,Team Golf Pittsburgh Steelers Fairway Stand B,179.99,NHL,107.99,20,143.99
+1149,51,Wild Sports Washington Redskins XL Tailgate B,219.99,NHL,131.99,20,175.99
+1150,51,Wild Sports Dallas Cowboys XL Tailgate Bean B,219.99,NHL,131.99,20,175.99
+1151,51,Nike Men's Chicago Bears Coaches Sideline 201,34.97,NHL,20.98,10,31.47
+1152,51,Nike Men's Home Game Jersey Pittsburgh Steele,100,NHL,60,20,80
+1153,51,Nike Men's Home Game Jersey New Orleans Saint,100,NHL,60,20,80
+1154,52,Reebok Men's Chicago Blackhawks Patrick Kane ,170,NBA,102,20,136
+1155,52,$10 Gift Card,10,NBA,6,5,9.5
+1156,52,Reebok Men's Boston Bruins Patrice Bergeron #,170,NBA,102,20,136
+1157,52,Reebok Men's Chicago Blackhawks Jonathan Toew,170,NBA,102,20,136
+1158,52,Reebok Men's Chicago Blackhawks Jonathan Toew,170,NBA,102,20,136
+1159,52,Reebok Youth Chicago Blackhawks Patrick Kane ,65,NBA,39,15,55.25
+1160,52,Reebok Women's Chicago Blackhawks Patrick Kan,130,NBA,78,20,104
+1161,52,Reebok Men's Detroit Red Wings 2014 NHL Cente,26,NBA,15.6,10,23.4
+1162,52,Reebok Men's Minnesota Wild 2014 NHL Center I,26,NBA,15.6,10,23.4
+1163,52,Reebok Men's Dallas Stars 2014 NHL Center Ice,26,NBA,15.6,10,23.4
+1164,52,Reebok Men's Buffalo Sabres 2014 NHL Center I,26,NBA,15.6,10,23.4
+1165,52,Reebok Men's Nashville Predators 2014 NHL Cen,26,NBA,15.6,10,23.4
+1166,52,Reebok Men's Pittsburgh Penguins 2014 NHL Cen,26,NBA,15.6,10,23.4
+1167,52,Reebok Men's Florida Panthers 2014 NHL Center,26,NBA,15.6,10,23.4
+1168,52,Reebok Men's Toronto Maple Leafs 2014 NHL Cen,26,NBA,15.6,10,23.4
+1169,52,Reebok Men's Los Angeles Kings 2014 NHL Cente,26,NBA,15.6,10,23.4
+1170,52,Reebok Men's Carolina Hurricanes 2014 NHL Cen,26,NBA,15.6,10,23.4
+1171,52,Reebok Men's Philadelphia Flyers 2014 NHL Cen,26,NBA,15.6,10,23.4
+1172,52,Reebok Men's Washington Capitals 2014 NHL Cen,26,NBA,15.6,10,23.4
+1173,52,Reebok Men's Vancouver Canucks 2014 NHL Cente,26,NBA,15.6,10,23.4
+1174,52,Reebok Men's Montreal Canadiens 2014 NHL Cent,26,NBA,15.6,10,23.4
+1175,52,Reebok Men's Boston Bruins 2014 NHL Center Ic,26,NBA,15.6,10,23.4
+1176,52,Reebok Men's Colorado Avalanche  2014 NHL Cen,26,NBA,15.6,10,23.4
+1177,52,Antigua Women's 2014 NHL Stanley Cup Champion,54.99,NBA,32.99,15,46.74
+1178,53,Nike Kids' Grade School KD VI Basketball Shoe,99.99,NCAA,59.99,15,84.99
+1179,53,Nike Men's KD VI Basketball Shoe,129.99,NCAA,77.99,20,103.99
+1180,53,Nike Kids' Grade School LeBron XI Basketball ,139.99,NCAA,83.99,20,111.99
+1181,53,Nike Kids' Grade School KD VI Basketball Shoe,99.99,NCAA,59.99,15,84.99
+1182,53,Nike Men's LeBron XI Basketball Shoe,199.99,NCAA,119.99,20,159.99
+1183,53,Nike Men's LeBron XI Low Basketball Shoe,169.99,NCAA,101.99,20,135.99
+1184,53,Nike Kids' Grade School KD VI Basketball Shoe,99.99,NCAA,59.99,15,84.99
+1185,53,Nike Men's KD VII Basketball Shoe,149.99,NCAA,89.99,20,119.99
+1186,53,Nike Men's KD VI Basketball Shoe,129.99,NCAA,77.99,20,103.99
+1187,53,Nike Men's LeBron XI Basketball Shoe,179.99,NCAA,107.99,20,143.99
+1188,53,Nike Kids' Grade School LeBron XI Basketball ,139.99,NCAA,83.99,20,111.99
+1189,53,Nike Kids' Grade School Zoom Soldier VII Bask,94.99,NCAA,56.99,15,80.74
+1190,53,Nike Men's Zoom Kobe Venomenon 4 Basketball S,119.99,NCAA,71.99,20,95.99
+1191,53,Nike Kids' Grade School KD VI Basketball Shoe,89.99,NCAA,53.99,15,76.49
+1192,53,Nike Men's Kobe IX Elite Low Basketball Shoe,199.99,NCAA,119.99,20,159.99
+1193,53,Nike Men's LeBron XI Basketball Shoe,199.99,NCAA,119.99,20,159.99
+1194,53,Nike Kids' Grade School KD VI Basketball Shoe,89.99,NCAA,53.99,15,76.49
+1195,53,Nike Men's Kobe IX Basketball Shoe,159.99,NCAA,95.99,20,127.99
+1196,53,Nike Men's Air LeBron 3 Elite Slide,69.99,NCAA,41.99,15,59.49
+1197,53,Nike Men's KD VI Basketball Shoe,129.99,NCAA,77.99,20,103.99
+1198,53,Nike Kids' Grade School Zoom Soldier VII Bask,84.99,NCAA,50.99,15,72.24
+1199,53,Nike Men's KD VI Elite Basketball Shoe,199.99,NCAA,119.99,20,159.99
+1200,53,Nike Kids' Grade School LeBron XI Basketball ,139.99,NCAA,83.99,20,111.99
+1201,53,Nike Kids' Grade School Kobe IX Elite Basketb,124.99,NCAA,74.99,20,99.99
+1202,54,Schutt Youth Recruit Hybrid Custom Football H,99.99,MLS,59.99,15,84.99
+1203,54,Nike Adult Pro Combat Hyperstrong Girdle,63.99,MLS,38.39,15,54.39
+1204,54,Nike Adult Pro Combat Hyperstrong 3/4 Girdle,87.99,MLS,52.79,15,74.79
+1205,54,Schutt Youth Vengeance DCT Hybrid Custom Foot,129.99,MLS,77.99,20,103.99
+1206,54,Schutt Adult Integrated Football Pants,39.99,MLS,23.99,10,35.99
+1207,54,Nike Youth Pro Combat Hyperstrong 4 Pad Footb,51.99,MLS,31.19,15,44.19
+1208,54,Schutt Youth Vengeance DCT Hybrid+ Custom Foo,149.99,MLS,89.99,20,119.99
+1209,54,Nike Youth Pro Combat Hyperstrong Girdle,55.99,MLS,33.59,15,47.59
+1210,54,Schutt Youth AiR XP Pro Custom Football Helme,199.99,MLS,119.99,20,159.99
+1211,54,Schutt Youth XP Hybrid Custom Football Helmet,99.99,MLS,59.99,15,84.99
+1212,54,Nike Men's Pro Combat Hyperstrong 4 Pad Footb,63.99,MLS,38.39,15,54.39
+1213,54,Riddell Youth Power Rib Shirt,54.99,MLS,32.99,15,46.74
+1214,54,Schutt Youth Vengeance DCT Custom Football He,299.99,MLS,179.99,20,239.99
+1215,54,Riddell Adult Power 7-Pad Girdle,79.99,MLS,47.99,15,67.99
+1216,54,Schutt Youth Vengeance DCT Custom Football He,299.99,MLS,179.99,20,239.99
+1217,54,Nike Youth Pro Combat Hyperstrong 4 Pad Footb,51.99,MLS,31.19,15,44.19
+1218,54,Schutt Youth Integrated Football Pants,34.99,MLS,20.99,10,31.49
+1219,54,Riddell Adult Power Girdle,49.99,MLS,29.99,10,44.99
+1220,54,Riddell Youth Power Girdle,44.99,MLS,26.99,10,40.49
+1221,54,Cutters Adult C-TACK Revolution Receiver Glov,34.99,MLS,20.99,10,31.49
+1222,54,Under Armour Adult Gameday Armour 5 Pad Girdl,55.99,MLS,33.59,15,47.59
+1223,54,Schutt Varsity Super-Pro STG Specialty Facema,69.99,MLS,41.99,15,59.49
+1224,54,Schutt XV Flex Skill Shield Football Shoulder,179.99,MLS,107.99,20,143.99
+1225,54,Nike Adult Pro Combat Hyperstrong Girdle,63.99,MLS,38.39,15,54.39
+1226,55,adidas Men's New York Red Bulls Navy 2014 Sec,85,International Soccer,51,15,72.25
+1227,55,adidas Men's Sporting KC Navy 2014 Secondary ,85,International Soccer,51,15,72.25
+1228,55,adidas Men's 2014 All-Star Game Tactile Hunte,20,International Soccer,12,5,19
+1229,55,adidas Men's 2014 MLS All-Star Game Dueling T,24,International Soccer,14.4,10,21.6
+1230,55,adidas Men's 2014 MLS All-Star Game Cross Bla,20,International Soccer,12,5,19
+1231,55,adidas Original Men's 2014 MLS All-Star Game ,28,International Soccer,16.8,10,25.2
+1232,55,adidas Men's 2014 MLS All-Star Game Rose City,28,International Soccer,16.8,10,25.2
+1233,55,adidas Men's 2014 MLS All-Star Game Crest Gre,28,International Soccer,16.8,10,25.2
+1234,55,adidas Women's 2014 MLS All-Star Game Dueling,28,International Soccer,16.8,10,25.2
+1235,55,adidas Men's 2014 MLS All-Star Game Replica B,85,International Soccer,51,15,72.25
+1236,55,adidas Men's 2014 MLS All-Star Game Lumber Hu,22,International Soccer,13.2,10,19.8
+1237,55,adidas Men's 2014 MLS All-Star Game Axis Hunt,22,International Soccer,13.2,10,19.8
+1238,55,adidas Men's 2014 MLS All-Star Game Structure,20,International Soccer,12,5,19
+1239,55,adidas Men's 2014 MLS All-Star Game Camo Snap,26,International Soccer,15.6,10,23.4
+1240,55,adidas Men's 2014 MLS All-Star Game Slouch Wh,18,International Soccer,10.8,5,17.1
+1241,55,adidas Women's New York City FC Smoke Grey Wo,28,International Soccer,16.8,10,25.2
+1242,55,adidas Men's New York City FC Big Time Navy T,32,International Soccer,19.2,10,28.8
+1243,55,adidas Men's New York City FC Bleed Through W,25,International Soccer,15,10,22.5
+1244,55,adidas Men's New York City FC Team Logo Navy ,72,International Soccer,43.2,15,61.2
+1245,55,adidas New England Revolution Tropheo Soccer ,20,International Soccer,12,5,19
+1246,55,Toronto FC Team Color Soccer Bracelet,9.99,International Soccer,5.99,5,9.49
+1247,55,Sporting KC Team Color Soccer Bracelet,9.99,International Soccer,5.99,5,9.49
+1248,55,San Jose Earthquakes Team Color Soccer Bracel,9.99,International Soccer,5.99,5,9.49
+1249,55,Real Salt Lake Team Color Soccer Bracelet,9.99,International Soccer,5.99,5,9.49
+1250,56,Nike Men's USA White Home Stadium Soccer Jers,90,World Cup Shop,54,15,76.5
+1251,56,Nike Youth USA Away Stadium Replica Soccer Je,75,World Cup Shop,45,15,63.75
+1252,56,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,World Cup Shop,17.99,10,26.99
+1253,56,Nike Men's USA Away Stadium Replica Soccer Je,90,World Cup Shop,54,15,76.5
+1254,56,adidas Men's Germany Home Soccer Jersey,90,World Cup Shop,54,15,76.5
+1255,56,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,World Cup Shop,23.99,10,35.99
+1256,56,adidas Brazuca 2014 Official Match Ball,159.99,World Cup Shop,95.99,20,127.99
+1257,56,adidas Men's Germany Black/Red Away Match Soc,90,World Cup Shop,54,15,76.5
+1258,56,adidas Men's Mexico Home Soccer Jersey,90,World Cup Shop,54,15,76.5
+1259,56,adidas Brazuca Final Rio Official Match Ball,159.99,World Cup Shop,95.99,20,127.99
+1260,56,Nike Men's USA Soccer Navy Authentic Polo,70,World Cup Shop,42,15,59.5
+1261,56,adidas Brazuca Final Rio Top Glider Soccer Ba,29.99,World Cup Shop,17.99,10,26.99
+1262,56,adidas Brazuca 2014 Mini Soccer Ball,9.99,World Cup Shop,5.99,5,9.49
+1263,56,adidas Men's Germany Away Replica Black Top,50,World Cup Shop,30,15,42.5
+1264,56,adidas Men's Argentina Home Soccer Jersey,90,World Cup Shop,54,15,76.5
+1265,56,Nike USA 2014 World Cup Red/White/Blue Scarf,30,World Cup Shop,18,10,27
+1266,56,Nike Men's USA Soccer Grey Training Top,55,World Cup Shop,33,15,46.75
+1267,56,adidas Men's Mexico Red Away Soccer Jersey,90,World Cup Shop,54,15,76.5
+1268,56,adidas Youth Germany Home Soccer Jersey,70,World Cup Shop,42,15,59.5
+1269,56,Nike Men's Netherlands Orange Home Stadium So,90,World Cup Shop,54,15,76.5
+1270,56,adidas Men's Germany Black Crest Away Tee,25,World Cup Shop,15,10,22.5
+1271,56,Nike Men's USA Soccer Red Authentic Polo,70,World Cup Shop,42,15,59.5
+1272,56,Nike Men's USA Red Core Type T-Shirt,28,World Cup Shop,16.8,10,25.2
+1273,56,Nike Men's Netherlands Orange Core Crest T-Sh,28,World Cup Shop,16.8,10,25.2
+1274,57,Nike Men's USA White Home Stadium Soccer Jers,90,MLB Players,54,15,76.5
+1275,57,Nike Youth USA Away Stadium Replica Soccer Je,75,MLB Players,45,15,63.75
+1276,57,adidas Brazuca 2014 Top Glider Soccer Ball,29.99,MLB Players,17.99,10,26.99
+1277,57,Nike Men's USA Away Stadium Replica Soccer Je,90,MLB Players,54,15,76.5
+1278,57,adidas Men's Germany Home Soccer Jersey,90,MLB Players,54,15,76.5
+1279,57,PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat,189.99,MLB Players,113.99,20,151.99
+1280,57,adidas Brazuca 2014 Top RepliquÃ© Soccer Ball,39.99,MLB Players,23.99,10,35.99
+1281,57,adidas Brazuca 2014 Official Match Ball,159.99,MLB Players,95.99,20,127.99
+1282,57,adidas Men's Germany Black/Red Away Match Soc,90,MLB Players,54,15,76.5
+1283,57,adidas Kids' F5 Messi FG Soccer Cleat,34.99,MLB Players,20.99,10,31.49
+1285,57,adidas Men's Mexico Home Soccer Jersey,90,MLB Players,54,15,76.5
+1286,57,adidas Kids' F10 Messi TRX FG Soccer Cleat,44.99,MLB Players,26.99,10,40.49
+1287,57,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99,MLB Players,35.99,15,50.99
+1288,57,adidas Men's F10 Messi FG Soccer Cleat,59.99,MLB Players,35.99,15,50.99
+1289,57,adidas Brazuca Final Rio Official Match Ball,159.99,MLB Players,95.99,20,127.99
+1290,57,adidas Men's F30 Messi FG Soccer Cleat,99.99,MLB Players,59.99,15,84.99
+1291,57,Nike Men's USA Soccer Navy Authentic Polo,70,MLB Players,42,15,59.5
+1292,57,Nike Men's Mercurial Victory IV FG Soccer Cle,59.97,MLB Players,35.98,15,50.97
+1293,57,adidas Men's Predator Absolion  Instinct FG S,109.99,MLB Players,65.99,20,87.99
+1294,57,adidas Men's Copa Mundial Soccer Cleat,134.99,MLB Players,80.99,20,107.99
+1295,57,adidas Brazuca Final Rio Top Glider Soccer Ba,29.99,MLB Players,17.99,10,26.99
+1296,57,adidas Brazuca 2014 Mini Soccer Ball,9.99,MLB Players,5.99,5,9.49
+1297,57,PUMA Men's evoSPEED 1.2 Tricks FG Soccer Clea,174.99,MLB Players,104.99,20,139.99
+1298,58,Majestic Youth Replica New York Yankees Derek,60,NFL Players,36,15,51
+1299,58,Majestic Men's Authentic New York Yankees Der,194,NFL Players,116.4,20,155.2
+1300,58,Majestic Men's Replica New York Yankees Derek,100,NFL Players,60,20,80
+1301,58,Majestic Youth Replica New York Yankees Derek,50,NFL Players,30,15,42.5
+1302,58,Majestic Men's 2014 All-Star Game Derek Jeter,130,NFL Players,78,20,104
+1303,58,Majestic Women's New York Yankees Derek Jeter,28,NFL Players,16.8,10,25.2
+1304,58,Majestic Men's Replica Pittsburgh Pirates And,100,NFL Players,60,20,80
+1305,58,Nike Men's New York Yankees Derek Jeter Pinst,30,NFL Players,18,10,27
+1306,58,Majestic Youth Replica Pittsburgh Pirates And,50,NFL Players,30,15,42.5
+1307,58,Majestic Youth Replica Boston Red Sox David O,50,NFL Players,30,15,42.5
+1308,58,Majestic Youth 2014 All-Star Game Derek Jeter,60,NFL Players,36,15,51
+1309,58,Majestic Triple Peak Men's New York Yankees D,28,NFL Players,16.8,10,25.2
+1310,58,Majestic Men's New York Yankees Derek Jeter #,115,NFL Players,69,20,92
+1311,58,Majestic Youth Replica Los Angeles Dodgers Ya,50,NFL Players,30,15,42.5
+1312,58,Majestic Youth Los Angeles Angels Mike Trout ,22,NFL Players,13.2,10,19.8
+1313,58,Majestic Youth Replica New York Yankees Jacob,50,NFL Players,30,15,42.5
+1314,58,Majestic Men's Replica Los Angeles Dodgers Cl,100,NFL Players,60,20,80
+1315,58,Majestic Men's Replica Los Angeles Angels Mik,100,NFL Players,60,20,80
+1316,58,Majestic Men's Replica St. Louis Cardinals Oz,100,NFL Players,60,20,80
+1317,58,Majestic Youth 2014 All-Star Game Mike Trout ,60,NFL Players,36,15,51
+1318,58,Nike Men's New York Yankees Derek Jeter Retir,30,NFL Players,18,10,27
+1319,58,Majestic Men's Authentic Los Angeles Dodgers ,241,NFL Players,144.6,20,192.8
+1320,58,Majestic Men's Replica Cincinnati Reds Todd F,100,NFL Players,60,20,80
+1321,58,Majestic Men's Replica Los Angeles Dodgers Ya,100,NFL Players,60,20,80
+1322,59,Nike Men's Cleveland Browns 'Money Manziel' T,30,BB jerseys,18,10,27
+1323,59,Nike Men's Home Game Jersey Cleveland Browns ,100,BB jerseys,60,20,80
+1324,59,Nike Men's Cleveland Browns Johnny Manziel 'M,30,BB jerseys,18,10,27
+1325,59,Nike Johnny Football Camo Graphic T-Shirt,30,BB jerseys,18,10,27
+1326,59,Nike Youth Home Game Jersey Cleveland Browns ,70,BB jerseys,42,15,59.5
+1327,59,Nike Johnny Football Camo Jersey T-Shirt,30,BB jerseys,18,10,27
+1328,59,Nike Men's Cleveland Browns Johnny Manziel #2,32,BB jerseys,19.2,10,28.8
+1329,59,Nike Men's Cleveland Browns Johnny Football O,28,BB jerseys,16.8,10,25.2
+1330,59,Nike Men's Home Game Jersey Denver Broncos Pe,100,BB jerseys,60,20,80
+1331,59,Nike Men's Home Game Jersey Buffalo Bills Sam,100,BB jerseys,60,20,80
+1332,59,Nike Men's Home Game Jersey San Francisco 49e,100,BB jerseys,60,20,80
+1333,59,Nike Men's Home Game Jersey Pittsburgh Steele,100,BB jerseys,60,20,80
+1334,59,Nike Men's Home Game Jersey New Orleans Saint,100,BB jerseys,60,20,80
+1335,59,Nike Men's Andrew Luck Jersey - Home Game Ind,100,BB jerseys,60,20,80
+1336,59,Nike Men's Home Game Jersey New York Giants O,100,BB jerseys,60,20,80
+1337,59,Nike Men's Home Game Jersey Carolina Panthers,100,BB jerseys,60,20,80
+1338,59,Nike Men's Home Game Jersey Chicago Bears Jar,100,BB jerseys,60,20,80
+1339,59,Nike Men's Home Game Jersey New York Giants E,100,BB jerseys,60,20,80
+1340,59,Majestic Men's Replica Texas Rangers Russell ,69.97,BB jerseys,41.98,15,59.47
+1341,59,Nike Women's Cleveland Browns Johnny Football,34,BB jerseys,20.4,10,30.6
+1342,59,Nike Men's St. Louis Rams Michael Sam #96 Nam,32,BB jerseys,19.2,10,28.8
+1343,59,Nike Men's Home Game Jersey St. Louis Rams Mi,100,BB jerseys,60,20,80
+1344,59,Nike Men's Home Game Jersey St. Louis Rams Aa,100,BB jerseys,60,20,80
+1345,59,Nike Men's Home Game Jersey St. Louis Rams Gr,100,BB jerseys,60,20,80
